@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Troubadour_noOutline (angry)_0: 8970568182192450626
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

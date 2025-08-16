@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fishing bobber_0: 7965176984226132366
+      Fishing bobber_1: -1431386885442688482
+      Fishing bobber_2: 5108067670910851596
+      Fishing bobber_3: 7445129237149939963
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

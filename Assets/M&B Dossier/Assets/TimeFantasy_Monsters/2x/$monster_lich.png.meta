@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_lich_0: -7577901654801998269
+      $monster_lich_1: -318621052346929972
+      $monster_lich_10: -4753253038655472939
+      $monster_lich_11: 2966497209245470844
+      $monster_lich_2: -6824477738770299697
+      $monster_lich_3: -2929918179992780039
+      $monster_lich_4: 2084585791537595904
+      $monster_lich_5: -8330549948953558547
+      $monster_lich_6: -8615251060582850051
+      $monster_lich_7: 756207679359172987
+      $monster_lich_8: 679082117100966360
+      $monster_lich_9: -8433334867350359457
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

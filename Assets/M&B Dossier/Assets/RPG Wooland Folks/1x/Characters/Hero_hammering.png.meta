@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_hammering_0: -4414633237719328855
+      Hero_hammering_1: 6309377699662974862
+      Hero_hammering_10: -6013140621106781108
+      Hero_hammering_11: 8613408001706527911
+      Hero_hammering_12: -693505165693247947
+      Hero_hammering_13: -1043512638780786379
+      Hero_hammering_14: 2590127322088219508
+      Hero_hammering_15: -1342167761786337413
+      Hero_hammering_16: -748927032777767722
+      Hero_hammering_17: -440635852258420759
+      Hero_hammering_18: 8543538120863221478
+      Hero_hammering_19: -3099261056407878721
+      Hero_hammering_2: 901813315821407633
+      Hero_hammering_3: 7479334639259715664
+      Hero_hammering_4: 5112127275549628067
+      Hero_hammering_5: 3198646352185867107
+      Hero_hammering_6: 2932510393709086713
+      Hero_hammering_7: 539728081796077206
+      Hero_hammering_8: -2682219475600630270
+      Hero_hammering_9: 6781883603858856639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

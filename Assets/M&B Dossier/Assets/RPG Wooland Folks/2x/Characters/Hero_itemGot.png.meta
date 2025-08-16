@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_itemGot_0: 7497917126253769364
+      Hero_itemGot_1: 5330782602161153545
+      Hero_itemGot_2: -4271686415250658940
+      Hero_itemGot_3: -891359671842011282
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

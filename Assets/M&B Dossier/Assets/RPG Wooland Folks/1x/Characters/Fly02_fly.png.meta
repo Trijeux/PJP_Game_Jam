@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Fly02_fly_0: 2796802114161544019
+      Fly02_fly_1: -7907354644368065398
+      Fly02_fly_10: 9150477124793311500
+      Fly02_fly_11: 7972744038377204107
+      Fly02_fly_12: 5617479939626023670
+      Fly02_fly_13: 7987700454621973033
+      Fly02_fly_14: -3129805917297762459
+      Fly02_fly_15: 8265396574255719800
+      Fly02_fly_2: 1044107832071402382
+      Fly02_fly_3: -1807784323559723658
+      Fly02_fly_4: 3400969795568786769
+      Fly02_fly_5: 8538920766532490000
+      Fly02_fly_6: -1929646291369483772
+      Fly02_fly_7: -3238199456942134996
+      Fly02_fly_8: 5980549186020259534
+      Fly02_fly_9: 970797739101672668
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

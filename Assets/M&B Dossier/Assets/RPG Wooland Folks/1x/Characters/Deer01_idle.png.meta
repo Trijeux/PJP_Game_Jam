@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Deer01_idle_0: -9147175738784094385
+      Deer01_idle_1: -5743306836670034515
+      Deer01_idle_10: 6417710076979658036
+      Deer01_idle_11: -6343949325082326355
+      Deer01_idle_12: 867130983421906346
+      Deer01_idle_13: 2098345917174451121
+      Deer01_idle_14: -8909916689834828091
+      Deer01_idle_15: 8767561445956115285
+      Deer01_idle_2: -2711805411403373540
+      Deer01_idle_3: -7279274567203598870
+      Deer01_idle_4: 2981215870620329053
+      Deer01_idle_5: -6866658434642787668
+      Deer01_idle_6: 1518898582802119356
+      Deer01_idle_7: -1721133290058726742
+      Deer01_idle_8: 2804550624998741308
+      Deer01_idle_9: -5224378836636528020
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wolf06_idle_0: -4407852622185164458
+      Wolf06_idle_1: 666037271489201113
+      Wolf06_idle_10: 4666118824286725193
+      Wolf06_idle_11: -1159645162895021295
+      Wolf06_idle_12: -4986767257120943295
+      Wolf06_idle_13: -9200145003259981211
+      Wolf06_idle_14: 4126055604489763685
+      Wolf06_idle_15: 4029052206827777678
+      Wolf06_idle_2: 1284566987939652094
+      Wolf06_idle_3: -2239234987216735246
+      Wolf06_idle_4: 2590477424761085368
+      Wolf06_idle_5: 6873845558808726803
+      Wolf06_idle_6: 1818140039935104280
+      Wolf06_idle_7: 7999339641204354044
+      Wolf06_idle_8: -4061130898082224021
+      Wolf06_idle_9: -6090842684814639538
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

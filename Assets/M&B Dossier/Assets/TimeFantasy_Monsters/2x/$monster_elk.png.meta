@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_elk_0: 4216050241170097731
+      $monster_elk_1: 4555095875080729128
+      $monster_elk_10: -7169721655151809024
+      $monster_elk_11: -8997501434904038819
+      $monster_elk_2: -1895508258251348988
+      $monster_elk_3: -577355953549547636
+      $monster_elk_4: -5629414667202129080
+      $monster_elk_5: -5921672564444183459
+      $monster_elk_6: 6516408282188974452
+      $monster_elk_7: 450213037142372635
+      $monster_elk_8: 2255363883762839463
+      $monster_elk_9: -4424095910896981754
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

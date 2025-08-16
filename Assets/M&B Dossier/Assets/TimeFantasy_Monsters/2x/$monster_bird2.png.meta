@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_bird2_0: -3514017506357722589
+      $monster_bird2_1: -1160967651308144506
+      $monster_bird2_10: -418041042919611550
+      $monster_bird2_11: -1096773994763359307
+      $monster_bird2_12: 8643867352442073610
+      $monster_bird2_13: 1059091302184257555
+      $monster_bird2_14: -4487172529251078615
+      $monster_bird2_15: -9098212704508011316
+      $monster_bird2_16: 6613486915842327806
+      $monster_bird2_17: -551519489489604229
+      $monster_bird2_18: 6337890360269553777
+      $monster_bird2_19: -3253352772658803030
+      $monster_bird2_2: -4255814832253402819
+      $monster_bird2_20: 7033473421526748279
+      $monster_bird2_21: -6523896958951083149
+      $monster_bird2_22: -8617180612624183095
+      $monster_bird2_23: 4454119462380967364
+      $monster_bird2_3: 3984136085993371745
+      $monster_bird2_4: -5440233597773467617
+      $monster_bird2_5: -7415972686977257563
+      $monster_bird2_6: -5876529655733370355
+      $monster_bird2_7: 6100695665107852626
+      $monster_bird2_8: -6824880066566052065
+      $monster_bird2_9: 6216872066047692440
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

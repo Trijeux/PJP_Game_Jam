@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bird01_walk_0: 1281743635553701839
+      Bird01_walk_1: -4787474177884950778
+      Bird01_walk_10: -6145405497631968069
+      Bird01_walk_11: -7389876113243156677
+      Bird01_walk_12: 2318717948240238023
+      Bird01_walk_13: 2652659036221584483
+      Bird01_walk_14: 1317847688201612459
+      Bird01_walk_15: 3681476745954254301
+      Bird01_walk_2: 8227848161675053491
+      Bird01_walk_3: 4469045520300424364
+      Bird01_walk_4: 2806989230709660557
+      Bird01_walk_5: 4495974373943991796
+      Bird01_walk_6: -7865482775208850133
+      Bird01_walk_7: 4630957774351513783
+      Bird01_walk_8: 6007080671383808273
+      Bird01_walk_9: -7934546255334787311
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

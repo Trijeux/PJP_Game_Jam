@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Raccoon01_idle_0: -6625247888194510689
+      Raccoon01_idle_1: -1765807584482094037
+      Raccoon01_idle_2: -3527018958549898795
+      Raccoon01_idle_3: 777673461160540605
+      Raccoon01_idle_4: -4129827625253471788
+      Raccoon01_idle_5: 2889016288616670397
+      Raccoon01_idle_6: 2301214124529917834
+      Raccoon01_idle_7: -2742412425022284703
+      Raccoon01_idle_8: -8638408967325033898
+      Raccoon01_idle_9: -304942443501760063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

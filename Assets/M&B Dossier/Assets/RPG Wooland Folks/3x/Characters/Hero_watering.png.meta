@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_watering_0: -8175862165258103014
+      Hero_watering_1: 4801867375369427752
+      Hero_watering_10: 8116977640014632070
+      Hero_watering_11: 1133022043338676423
+      Hero_watering_12: 2777411610888141986
+      Hero_watering_13: -7866737195554080133
+      Hero_watering_14: -3131283715029607046
+      Hero_watering_15: 3069836962733217090
+      Hero_watering_16: 502775558372391484
+      Hero_watering_17: 6829554208501311736
+      Hero_watering_18: 7770424816640987399
+      Hero_watering_19: 3805512012582294100
+      Hero_watering_2: 4111555720783767207
+      Hero_watering_20: 3874773538785365902
+      Hero_watering_21: -8887854329608796945
+      Hero_watering_22: 724815162285613431
+      Hero_watering_23: -7429846019432258219
+      Hero_watering_24: 3817335166277995210
+      Hero_watering_25: -4535621257703952788
+      Hero_watering_26: -6750132188553397261
+      Hero_watering_27: -5507416675274467165
+      Hero_watering_28: -2113072665688591685
+      Hero_watering_29: -894796460506290883
+      Hero_watering_3: -3573716654453042150
+      Hero_watering_30: -2010519252225120230
+      Hero_watering_31: 6590925039623158360
+      Hero_watering_32: 6855757660856885665
+      Hero_watering_33: 4136795855975004887
+      Hero_watering_34: 6112491680484825836
+      Hero_watering_35: 4531927250846436896
+      Hero_watering_4: 5916224625329602620
+      Hero_watering_5: -467416603216219964
+      Hero_watering_6: -7885001083299737598
+      Hero_watering_7: -7608715345235009454
+      Hero_watering_8: 5995792540145941277
+      Hero_watering_9: -8096760874513754607
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

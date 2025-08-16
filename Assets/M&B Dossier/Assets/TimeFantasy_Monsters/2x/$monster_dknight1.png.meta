@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_dknight1_0: -5980307738172966802
+      $monster_dknight1_1: 3410284346342496746
+      $monster_dknight1_10: -878948801524182639
+      $monster_dknight1_11: -3695297878482819845
+      $monster_dknight1_2: 3112058330935467713
+      $monster_dknight1_3: 2786511663589484918
+      $monster_dknight1_4: -5488585522223195024
+      $monster_dknight1_5: 7187063836529619729
+      $monster_dknight1_6: -2771133086298991294
+      $monster_dknight1_7: 4618699551219971515
+      $monster_dknight1_8: -3935481289887806038
+      $monster_dknight1_9: -915090943524171636
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

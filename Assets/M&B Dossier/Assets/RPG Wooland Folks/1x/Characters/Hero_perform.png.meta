@@ -1009,7 +1009,43 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_perform_0: -4160909432116851452
+      Hero_perform_1: -6595817969077904035
+      Hero_perform_10: -2817589012990679065
+      Hero_perform_11: -7042318718982220027
+      Hero_perform_12: 1276932953085149449
+      Hero_perform_13: -7113775468537304719
+      Hero_perform_14: 3156862824753668353
+      Hero_perform_15: -3480553114564978626
+      Hero_perform_16: -1089532426064935019
+      Hero_perform_17: -2526572814751551680
+      Hero_perform_18: 7729429954334006566
+      Hero_perform_19: -427888774739084408
+      Hero_perform_2: 3729923806741317885
+      Hero_perform_20: 6920838296998330233
+      Hero_perform_21: -6567992366086573296
+      Hero_perform_22: 3314422325327675814
+      Hero_perform_23: -1474567694276489508
+      Hero_perform_24: -3815068932533440826
+      Hero_perform_25: 3497760149712499827
+      Hero_perform_26: -6988167861016526604
+      Hero_perform_27: -3972028034033725806
+      Hero_perform_28: -339107606946399624
+      Hero_perform_29: 4397637510052926861
+      Hero_perform_3: 4046792184275110742
+      Hero_perform_30: 3468261787497972157
+      Hero_perform_31: 4042268037163326520
+      Hero_perform_32: -8229121225596068232
+      Hero_perform_33: -5241821735277256647
+      Hero_perform_34: 105616291457490025
+      Hero_perform_35: -8489718308080192552
+      Hero_perform_4: 6379158203756598286
+      Hero_perform_5: -8593880392339870914
+      Hero_perform_6: 9125345121430486119
+      Hero_perform_7: 2580115583679550780
+      Hero_perform_8: 3813714485722906761
+      Hero_perform_9: 7108980655033178121
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

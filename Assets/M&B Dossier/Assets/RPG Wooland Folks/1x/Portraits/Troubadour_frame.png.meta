@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Troubadour_frame_0: 1602034204188874341
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

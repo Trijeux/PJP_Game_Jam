@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_boar_0: 4859120210843040298
+      $monster_boar_1: -1722751037054377321
+      $monster_boar_10: -3775739992874213830
+      $monster_boar_11: 4393840192449744244
+      $monster_boar_2: -8661882771934399773
+      $monster_boar_3: 4812932947271735602
+      $monster_boar_4: 8758758489485212420
+      $monster_boar_5: -8354353351413199850
+      $monster_boar_6: 3083535706445765825
+      $monster_boar_7: 3683983662860393575
+      $monster_boar_8: -7147616043584756896
+      $monster_boar_9: 8306441702106572266
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

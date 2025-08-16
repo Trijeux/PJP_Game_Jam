@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_melee_0: 1394263902571156155
+      Hero_melee_1: -4556445434010805173
+      Hero_melee_10: 370551454581328883
+      Hero_melee_11: 2133637405729583941
+      Hero_melee_12: 6332945194463449850
+      Hero_melee_13: -1399700345601427750
+      Hero_melee_14: 5289748721504635989
+      Hero_melee_15: 6857375113535620264
+      Hero_melee_2: -1431420334498262880
+      Hero_melee_3: -6084902388603460908
+      Hero_melee_4: 2107447884142484320
+      Hero_melee_5: 7989858760167480820
+      Hero_melee_6: 4305269171436389834
+      Hero_melee_7: 3477485383803513292
+      Hero_melee_8: 580256480915819607
+      Hero_melee_9: -5434033029368936764
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_golem1_0: -1840062236187733387
+      $monster_golem1_1: -8597123855551577579
+      $monster_golem1_10: -5490334930247470062
+      $monster_golem1_11: -7173895018852616050
+      $monster_golem1_2: -1562120591754200339
+      $monster_golem1_3: 5763065127522116625
+      $monster_golem1_4: -8341005447651252296
+      $monster_golem1_5: -5892794902163315074
+      $monster_golem1_6: -1887041924647358296
+      $monster_golem1_7: -8514668936453070484
+      $monster_golem1_8: 4186227507852835881
+      $monster_golem1_9: -4031179233410786078
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

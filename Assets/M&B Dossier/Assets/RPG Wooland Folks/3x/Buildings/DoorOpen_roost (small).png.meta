@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      DoorOpen_roost (small)_0: 1313897534582379719
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

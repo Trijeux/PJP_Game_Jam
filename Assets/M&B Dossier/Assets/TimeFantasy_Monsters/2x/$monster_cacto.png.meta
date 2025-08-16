@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_cacto_0: -4443858332881662250
+      $monster_cacto_1: 8031270302014399415
+      $monster_cacto_10: 6051969066526438546
+      $monster_cacto_11: 6155884954045284491
+      $monster_cacto_2: -6636220916173825478
+      $monster_cacto_3: 6468012841459474452
+      $monster_cacto_4: 6497691838544307952
+      $monster_cacto_5: -315183500982723063
+      $monster_cacto_6: -5182053778193300773
+      $monster_cacto_7: 6774322697317471405
+      $monster_cacto_8: -9065911136731000509
+      $monster_cacto_9: 4350460653569617021
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

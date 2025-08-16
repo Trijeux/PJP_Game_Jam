@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mouse04_idle_0: 8517411386387375324
+      Mouse04_idle_1: -4351851150711598540
+      Mouse04_idle_10: -8848730977062714659
+      Mouse04_idle_11: 4013844215578521305
+      Mouse04_idle_12: -5865550784835449630
+      Mouse04_idle_13: 3588692356895854925
+      Mouse04_idle_2: -510985581346159125
+      Mouse04_idle_3: 5465059424564799010
+      Mouse04_idle_4: -729856447605655929
+      Mouse04_idle_5: -8147659002937593477
+      Mouse04_idle_6: 6866499317959941724
+      Mouse04_idle_7: 346514931865458846
+      Mouse04_idle_8: -6081371801952914189
+      Mouse04_idle_9: 967209265499465647
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

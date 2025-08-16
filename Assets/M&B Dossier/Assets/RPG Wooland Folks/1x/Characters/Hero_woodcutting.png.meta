@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_woodcutting_0: -8859947133089236782
+      Hero_woodcutting_1: -5348116411034505710
+      Hero_woodcutting_10: 4459016247987887250
+      Hero_woodcutting_11: -5367563824768058143
+      Hero_woodcutting_12: -3679792384912812198
+      Hero_woodcutting_13: 5173609739763883742
+      Hero_woodcutting_14: 8722382059692835423
+      Hero_woodcutting_15: -5995383922044793324
+      Hero_woodcutting_16: 4874775369907260389
+      Hero_woodcutting_17: -2307254312536784818
+      Hero_woodcutting_18: 968866455098385328
+      Hero_woodcutting_19: -1784829701860165409
+      Hero_woodcutting_2: 4654142903793725738
+      Hero_woodcutting_3: -1473608397236810315
+      Hero_woodcutting_4: -4497466939502292998
+      Hero_woodcutting_5: -1781229997428289489
+      Hero_woodcutting_6: 2114618828389460588
+      Hero_woodcutting_7: 6192327735301830777
+      Hero_woodcutting_8: 211388723342780935
+      Hero_woodcutting_9: -2363720022346533741
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      monster_lizardman1_0: 4555356587794886115
+      monster_lizardman1_1: -8982123509210149129
+      monster_lizardman1_10: 1723356000742968092
+      monster_lizardman1_11: -1212783200826317150
+      monster_lizardman1_2: -2497492007360324449
+      monster_lizardman1_3: -1172928745163855372
+      monster_lizardman1_4: -6980352857753804204
+      monster_lizardman1_5: -1143887127087914157
+      monster_lizardman1_6: -6958193209662870166
+      monster_lizardman1_7: -4580033532596170471
+      monster_lizardman1_8: 2266666288849288931
+      monster_lizardman1_9: -557524584884148863
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

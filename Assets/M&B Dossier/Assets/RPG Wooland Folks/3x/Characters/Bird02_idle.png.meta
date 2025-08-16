@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Bird02_idle_0: 3716890242447571672
+      Bird02_idle_1: -1747887261703132916
+      Bird02_idle_10: 7444661966566744843
+      Bird02_idle_11: -2775722847730875564
+      Bird02_idle_12: -1000780451652929018
+      Bird02_idle_13: 5764976125052870807
+      Bird02_idle_14: 2750037670263563739
+      Bird02_idle_15: -5626737310821929420
+      Bird02_idle_2: -6726088844625479365
+      Bird02_idle_3: -7531901842473447610
+      Bird02_idle_4: -8424478079478816211
+      Bird02_idle_5: 8729319076856696025
+      Bird02_idle_6: -192699296804954744
+      Bird02_idle_7: -5052318815008455998
+      Bird02_idle_8: -4597858317924697086
+      Bird02_idle_9: -4897605734638258366
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

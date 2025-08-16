@@ -809,7 +809,35 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_shovelling_0: 4172530399547196634
+      Hero_shovelling_1: -6090816158900064091
+      Hero_shovelling_10: -8226653064143655634
+      Hero_shovelling_11: -5405920857298857178
+      Hero_shovelling_12: -6003875878175180941
+      Hero_shovelling_13: -2070427142286758331
+      Hero_shovelling_14: -8021024327368123242
+      Hero_shovelling_15: -3930619211968783396
+      Hero_shovelling_16: -2875059813205884101
+      Hero_shovelling_17: 4226198745154705033
+      Hero_shovelling_18: -2786496790809174466
+      Hero_shovelling_19: 1469307491106409809
+      Hero_shovelling_2: 5609772325128643986
+      Hero_shovelling_20: 7751253255029327761
+      Hero_shovelling_21: 5003915197592514059
+      Hero_shovelling_22: 560901537941685148
+      Hero_shovelling_23: 3830420034853000224
+      Hero_shovelling_24: -4166304741794253400
+      Hero_shovelling_25: 1126108319793139702
+      Hero_shovelling_26: 6870168953242817143
+      Hero_shovelling_27: -973024640809589215
+      Hero_shovelling_3: -8904412443745600569
+      Hero_shovelling_4: -6352315065853040745
+      Hero_shovelling_5: -344847964317928543
+      Hero_shovelling_6: 4776182751375879000
+      Hero_shovelling_7: -1723696195038431283
+      Hero_shovelling_8: 67582996404958226
+      Hero_shovelling_9: -3106272276386901334
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

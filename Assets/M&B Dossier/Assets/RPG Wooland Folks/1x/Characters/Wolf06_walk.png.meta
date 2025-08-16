@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wolf06_walk_0: 6234315436832735856
+      Wolf06_walk_1: 6342945290376662478
+      Wolf06_walk_10: 1047157805982192009
+      Wolf06_walk_11: -264932032017072434
+      Wolf06_walk_12: -2827071920603910530
+      Wolf06_walk_13: 1354940538243109601
+      Wolf06_walk_14: -1428614008201720705
+      Wolf06_walk_15: 8638139386291153151
+      Wolf06_walk_2: -884999862794363492
+      Wolf06_walk_3: 1652195107190174918
+      Wolf06_walk_4: 7281431357625446954
+      Wolf06_walk_5: -9041211467797238910
+      Wolf06_walk_6: 6364941450361757904
+      Wolf06_walk_7: -8056541977118387842
+      Wolf06_walk_8: -1504399080962309128
+      Wolf06_walk_9: -1048322520905296912
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

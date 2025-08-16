@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_raptor2_0: -4978175882683748015
+      $monster_raptor2_1: 5095621203400905558
+      $monster_raptor2_10: -4622543632107836278
+      $monster_raptor2_11: -7107678017879884586
+      $monster_raptor2_2: 2484106816730405788
+      $monster_raptor2_3: 2484222564914168912
+      $monster_raptor2_4: 1897120850758736113
+      $monster_raptor2_5: -3737360633772849609
+      $monster_raptor2_6: 8725338137074659625
+      $monster_raptor2_7: 1688870207809586579
+      $monster_raptor2_8: -6753633955904385598
+      $monster_raptor2_9: -7784151929539467566
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

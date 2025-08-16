@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Deer06_walk_0: 3854315662397036110
+      Deer06_walk_1: -2062106574605782004
+      Deer06_walk_2: 2229659816895654690
+      Deer06_walk_3: -2970205855293519727
+      Deer06_walk_4: -6628737600719866945
+      Deer06_walk_5: 2720038664305081499
+      Deer06_walk_6: 5604330948584583945
+      Deer06_walk_7: 4631378147337341352
+      Deer06_walk_8: 1456914938438295837
+      Deer06_walk_9: -1345862843829001987
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

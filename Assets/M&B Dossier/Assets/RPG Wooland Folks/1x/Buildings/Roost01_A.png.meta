@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Roost01_A_0: 5837181342626776329
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

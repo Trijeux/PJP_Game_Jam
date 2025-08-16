@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_hoeing_0: -5262630358553969584
+      Hero_hoeing_1: 3921077565237817036
+      Hero_hoeing_10: -8137109219865071994
+      Hero_hoeing_11: -2843291607212328049
+      Hero_hoeing_12: 1510153509272675372
+      Hero_hoeing_13: 7088330686950486148
+      Hero_hoeing_14: -608589117165380811
+      Hero_hoeing_15: 5186448815579795358
+      Hero_hoeing_16: -3810986346751917897
+      Hero_hoeing_17: -2940395621441214510
+      Hero_hoeing_18: -2764773157444701579
+      Hero_hoeing_19: 15664923009881960
+      Hero_hoeing_2: 7592823143711607440
+      Hero_hoeing_3: 5165956965962826019
+      Hero_hoeing_4: 8071890289280310558
+      Hero_hoeing_5: 7777133342197816710
+      Hero_hoeing_6: -6954687505184658308
+      Hero_hoeing_7: -3646949573062623883
+      Hero_hoeing_8: 6326227164761801885
+      Hero_hoeing_9: -2749026360501296839
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

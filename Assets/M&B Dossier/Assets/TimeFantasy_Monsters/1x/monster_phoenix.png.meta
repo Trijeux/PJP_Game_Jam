@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      monster_phoenix_0: 1446423531836832300
+      monster_phoenix_1: 5642145776635866187
+      monster_phoenix_10: -6952191383777471539
+      monster_phoenix_11: -247087018683657067
+      monster_phoenix_12: 8583517134644774540
+      monster_phoenix_13: -5791485965230114343
+      monster_phoenix_14: 8312120451647805152
+      monster_phoenix_15: 5839939540928319303
+      monster_phoenix_16: -6172868510602576169
+      monster_phoenix_17: 4063834173932715560
+      monster_phoenix_18: 3925402950861305949
+      monster_phoenix_19: -3112548422074774055
+      monster_phoenix_2: 8440130098393201687
+      monster_phoenix_20: -838402147048590615
+      monster_phoenix_21: 4594998439609447096
+      monster_phoenix_22: -3930554475803703519
+      monster_phoenix_23: 978764909226274121
+      monster_phoenix_3: 957166827220422597
+      monster_phoenix_4: 3543742704675713129
+      monster_phoenix_5: 5830241900800759159
+      monster_phoenix_6: -6628199798582506182
+      monster_phoenix_7: 7355606271169659804
+      monster_phoenix_8: -4104642049512186618
+      monster_phoenix_9: 221363930689076061
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

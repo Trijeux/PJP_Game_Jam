@@ -609,7 +609,27 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_mining_0: -801448649182689786
+      Hero_mining_1: -4584764270679775678
+      Hero_mining_10: -421877139349943353
+      Hero_mining_11: 8883143491343244975
+      Hero_mining_12: -7098174352127554776
+      Hero_mining_13: -1128485130768019432
+      Hero_mining_14: -64074960475468117
+      Hero_mining_15: 907814923543153277
+      Hero_mining_16: 3847506040511598780
+      Hero_mining_17: 6476149598943453506
+      Hero_mining_18: 5464684850937532923
+      Hero_mining_19: 2014423974088990470
+      Hero_mining_2: 3760139386378509745
+      Hero_mining_3: -146306311730079601
+      Hero_mining_4: -4712952943562904891
+      Hero_mining_5: 8703789550984004592
+      Hero_mining_6: -3485910555454182735
+      Hero_mining_7: -3113861022393741936
+      Hero_mining_8: 6055429525636948001
+      Hero_mining_9: -527245695084152283
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

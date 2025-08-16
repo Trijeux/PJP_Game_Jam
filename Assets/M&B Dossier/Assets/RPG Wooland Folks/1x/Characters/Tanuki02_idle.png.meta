@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Tanuki02_idle_0: 3628728712411601146
+      Tanuki02_idle_1: 1534936961916547940
+      Tanuki02_idle_2: 468583327756101477
+      Tanuki02_idle_3: -1838149014784328674
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

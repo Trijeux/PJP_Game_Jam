@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Raccoon02_walk_0: -7254046067402588714
+      Raccoon02_walk_1: 5326815407413583274
+      Raccoon02_walk_2: -619450814975345255
+      Raccoon02_walk_3: -490238740301366764
+      Raccoon02_walk_4: 8797823524776571793
+      Raccoon02_walk_5: -587544129240627041
+      Raccoon02_walk_6: -1333144740469959296
+      Raccoon02_walk_7: 5365998459650944857
+      Raccoon02_walk_8: -5619669226812953083
+      Raccoon02_walk_9: -8085357380178170840
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

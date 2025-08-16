@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      $monster_phoenix_0: -2183154358610831652
+      $monster_phoenix_1: 9098982762639524304
+      $monster_phoenix_10: -45608182315787505
+      $monster_phoenix_11: 7403698299547559736
+      $monster_phoenix_12: -2406168295373459352
+      $monster_phoenix_13: 3589729872714079337
+      $monster_phoenix_14: -116753413598337476
+      $monster_phoenix_15: 6303518949205259466
+      $monster_phoenix_16: -1379004496455318903
+      $monster_phoenix_17: -9147412229958754961
+      $monster_phoenix_18: 8367694171051543806
+      $monster_phoenix_19: 3911787244732499367
+      $monster_phoenix_2: 6124484949998036701
+      $monster_phoenix_20: -6333396788289446511
+      $monster_phoenix_21: 2710300861684751371
+      $monster_phoenix_22: -4094320134635522520
+      $monster_phoenix_23: 3668563096383250099
+      $monster_phoenix_3: -3081973740411800088
+      $monster_phoenix_4: -1834240334231301468
+      $monster_phoenix_5: 3600177901218182212
+      $monster_phoenix_6: 7805382329383307629
+      $monster_phoenix_7: -2533493527443538039
+      $monster_phoenix_8: -1480811366654831250
+      $monster_phoenix_9: -837530129392166846
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

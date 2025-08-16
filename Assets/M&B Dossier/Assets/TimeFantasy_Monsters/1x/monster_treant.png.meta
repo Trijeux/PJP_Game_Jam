@@ -334,7 +334,16 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      monster_treant_0: -5052554153761443301
+      monster_treant_1: 5960339803379411309
+      monster_treant_2: 5431243160382692763
+      monster_treant_3: -3038520149202898113
+      monster_treant_4: 5496535506786792608
+      monster_treant_5: 2437072252959324786
+      monster_treant_6: -8722873219173090230
+      monster_treant_7: 7093246557836555239
+      monster_treant_8: 7985414059276691805
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

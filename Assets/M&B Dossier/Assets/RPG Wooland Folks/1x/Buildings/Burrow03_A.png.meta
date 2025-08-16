@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Burrow03_A_0: 1719941846775166400
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

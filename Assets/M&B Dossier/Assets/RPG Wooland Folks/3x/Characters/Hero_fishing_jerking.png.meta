@@ -509,7 +509,23 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Hero_fishing_jerking_0: 347809046133868568
+      Hero_fishing_jerking_1: -2246944097093508464
+      Hero_fishing_jerking_10: -7784766406341234728
+      Hero_fishing_jerking_11: -4295461233554948033
+      Hero_fishing_jerking_12: -6749635442334052665
+      Hero_fishing_jerking_13: 4275187113150528894
+      Hero_fishing_jerking_14: 2164294077819435121
+      Hero_fishing_jerking_15: 9219513196983196328
+      Hero_fishing_jerking_2: 1321893969849854620
+      Hero_fishing_jerking_3: -1158924424401583666
+      Hero_fishing_jerking_4: -7301416049688375385
+      Hero_fishing_jerking_5: 7419129653737860127
+      Hero_fishing_jerking_6: 120509167286356747
+      Hero_fishing_jerking_7: -9182248786738054950
+      Hero_fishing_jerking_8: -5381672537596203764
+      Hero_fishing_jerking_9: 6684625766681046264
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

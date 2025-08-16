@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Troubadour_frame (nervous)_0: -8745745661794085628
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

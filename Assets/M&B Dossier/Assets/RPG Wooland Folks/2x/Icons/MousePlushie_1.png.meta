@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      MousePlushie_1_0: -8642251507915598984
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

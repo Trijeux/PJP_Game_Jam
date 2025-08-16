@@ -459,7 +459,21 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Mouse06_walk_0: 4139055642555071312
+      Mouse06_walk_1: -6846099785281047578
+      Mouse06_walk_10: 1139632542649739383
+      Mouse06_walk_11: -213125335426135153
+      Mouse06_walk_12: 3999822855277283118
+      Mouse06_walk_13: -221573475002967782
+      Mouse06_walk_2: 258230834969557611
+      Mouse06_walk_3: -5423902279301113785
+      Mouse06_walk_4: -7256256241018227671
+      Mouse06_walk_5: -7137640897410116923
+      Mouse06_walk_6: -8490171385707220372
+      Mouse06_walk_7: -4647011082375376306
+      Mouse06_walk_8: 9032160172849705320
+      Mouse06_walk_9: 1038527049882218779
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

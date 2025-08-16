@@ -709,7 +709,31 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      monster_bird3_0: 8855039088762604204
+      monster_bird3_1: 1317345088948228722
+      monster_bird3_10: -5189560877365884896
+      monster_bird3_11: -5060077632470712977
+      monster_bird3_12: 3629286575387018645
+      monster_bird3_13: 3909012589365833547
+      monster_bird3_14: 8638416592285415779
+      monster_bird3_15: -3764331386645297186
+      monster_bird3_16: -5198410149736501460
+      monster_bird3_17: -1922064140622692374
+      monster_bird3_18: 8581478259950641898
+      monster_bird3_19: -7302886188530044494
+      monster_bird3_2: -2017751146418772597
+      monster_bird3_20: 4276745546501202280
+      monster_bird3_21: 5608964205734430808
+      monster_bird3_22: 1816343286862264856
+      monster_bird3_23: -7856210970014254953
+      monster_bird3_3: -3428454164617442918
+      monster_bird3_4: -6687215557859255792
+      monster_bird3_5: 5377613859980741067
+      monster_bird3_6: -1804331543770456117
+      monster_bird3_7: 4738819739687001851
+      monster_bird3_8: -1320037196277676235
+      monster_bird3_9: 3223925343975623290
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

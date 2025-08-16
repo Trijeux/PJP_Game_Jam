@@ -409,7 +409,19 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      monster_minotaur_0: 2926145505396931847
+      monster_minotaur_1: -3941432212523338681
+      monster_minotaur_10: -110334573408410364
+      monster_minotaur_11: -6844692729490796933
+      monster_minotaur_2: 4299850703226578002
+      monster_minotaur_3: 7590403565612181535
+      monster_minotaur_4: 7083689293452046306
+      monster_minotaur_5: 6663086337334203652
+      monster_minotaur_6: -2180987203111013357
+      monster_minotaur_7: -3713132836634973539
+      monster_minotaur_8: -2253487420393192456
+      monster_minotaur_9: 812219861758449698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
