@@ -1,3 +1,7 @@
+// Script by : Hugo
+// Porject : PJPJam
+
+
 using System.Collections;
 using UnityEngine;
 
