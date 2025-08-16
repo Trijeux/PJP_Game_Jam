@@ -66,6 +66,9 @@ sysinfo.txt
 # Mono auto generated files
 mono_crash.*
 
+# Script Templates
+79-C# Script-NewBehaviourScript.cs.*
+
 # Builds
 *.apk
 *.aab
