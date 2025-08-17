@@ -247,6 +247,17 @@
                     "action": "SpectralMode",
                     "isComposite": false,
                     "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "6cfe1bec-2216-449f-925b-2af3ecabcc81",
+                    "path": "<Keyboard>/alt",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "SpectralMode",
+                    "isComposite": false,
+                    "isPartOfComposite": false
                 }
             ]
         }
