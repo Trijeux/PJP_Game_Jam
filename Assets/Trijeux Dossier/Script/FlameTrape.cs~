@@ -44,7 +44,7 @@ public class FlameTrape : MonoBehaviour
     {
         _flag = true;
         yield return new WaitForSeconds(coolDownAttack);
-        _animator.SetTrigger("Active");
+        _animator.SetTrigger("Attack");
         _flag = false;
     }
 
