@@ -9,6 +9,9 @@ public class SpikeHeadAnimation : MonoBehaviour
     
     [SerializeField] private Animator animator;
     [SerializeField] private float speed = 6f;
+    [SerializeField] private AudioSource _audioSource;
+
+    [SerializeField] private Transform spawnPoint;
     private Vector3 originalPosition;
     
 
@@ -49,7 +52,14 @@ public class SpikeHeadAnimation : MonoBehaviour
 
     void OnCollisionEnter2D(Collision2D other)
     {
+        
+        if (other.gameObject.CompareTag("Player"))
+        {
+            other.gameObject.GetComponent<PlayerController>().DeadSound();
+            other.transform.position = new Vector3(spawnPoint.position.x, spawnPoint.position.y);
+        }
         animator.SetBool("Is_rushing", false);
+        _audioSource.Play();
     }
     
 }
