@@ -70,7 +70,7 @@ public class EagleView2 : MonoBehaviour
             _flag = true;
             outlineMaterial.SetFloat(Thickness, outlineMaterial.GetFloat(Thickness ) == _outlineBaseValue ? 0.0f : _outlineBaseValue);
             outlineMaterialFull.SetInt(Active, outlineMaterialFull.GetInt(Active) == 0 ? 1 : 0);
-            outlineMaterialTransparent.SetFloat(Thickness, outlineMaterialTransparent.GetInt(Thickness) == _outlineTransparentBaseValue ? 0.0f : _outlineTransparentBaseValue);
+            outlineMaterialTransparent.SetFloat(Thickness, outlineMaterialTransparent.GetFloat(Thickness) == _outlineTransparentBaseValue ? 0.0f : _outlineTransparentBaseValue);
             vanishingMaterial.SetInt(Active, vanishingMaterial.GetInt(Active) == 0 ? 1 : 0);
             dangerMaterial.SetFloat(Thickness, dangerMaterial.GetFloat(Thickness) == _dangerBaseValue ? 0.0f : _dangerBaseValue);
             arrowMaterial.SetInt(Active, arrowMaterial.GetInt(Active) == 0 ? 1 : 0);
