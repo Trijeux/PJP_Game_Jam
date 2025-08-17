@@ -224,7 +224,7 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        switch (_inputSpectralMode && SpectralPower)
+        switch (_inputSpectralMode)
         {
             case false:
                 mainCam.Priority = 1;

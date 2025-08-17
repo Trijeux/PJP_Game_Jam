@@ -32,6 +32,7 @@ public class SpikeHeadAnimation : MonoBehaviour
         else
         {
             transform.localPosition = originalPosition;
+            animator.SetBool("Is_rushing", false);
         }
     }
 
