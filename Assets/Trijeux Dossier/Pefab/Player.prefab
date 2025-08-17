@@ -611,12 +611,8 @@ GameObject:
   m_Component:
   - component: {fileID: 7697352816849273481}
   - component: {fileID: 2385206677759563096}
-<<<<<<< HEAD
-  - component: {fileID: 9220592797086761897}
-=======
   - component: {fileID: 2134560644598278357}
   - component: {fileID: 7743712578028786367}
->>>>>>> 43cbc4d68392a3d24565bc0e2b472bce83523cbc
   m_Layer: 0
   m_Name: Attack_KG_1_0
   m_TagString: Untagged
@@ -694,11 +690,7 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
-<<<<<<< HEAD
---- !u!95 &9220592797086761897
-=======
 --- !u!95 &2134560644598278357
->>>>>>> 43cbc4d68392a3d24565bc0e2b472bce83523cbc
 Animator:
   serializedVersion: 7
   m_ObjectHideFlags: 0
@@ -720,8 +712,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
-<<<<<<< HEAD
-=======
 --- !u!114 &7743712578028786367
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -771,7 +761,6 @@ Transform:
   - {fileID: 2326541115011817367}
   m_Father: {fileID: 5609708395856311449}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> 43cbc4d68392a3d24565bc0e2b472bce83523cbc
 --- !u!1 &4957296228898311679
 GameObject:
   m_ObjectHideFlags: 0
@@ -869,11 +858,7 @@ MonoBehaviour:
   dangerMaterial: {fileID: 2100000, guid: 644bdf94b0a9fcb46b2dd1303c65b913, type: 2}
   arrowMaterial: {fileID: 2100000, guid: 275935a100280e44dba3a7b7b1cbcc43, type: 2}
   platformMaterial: {fileID: 2100000, guid: 4348be074a93d384aa307bf40547f07b, type: 2}
-<<<<<<< HEAD
-  invisiblePlatformMaterial: {fileID: 2100000, guid: 38051935277cf654f82a5be087e0e331, type: 2}
-=======
   invisiblePlatformMaterial: {fileID: -876546973899608171, guid: 2790c5e5590327c41bb70e43953b0098, type: 3}
->>>>>>> 43cbc4d68392a3d24565bc0e2b472bce83523cbc
   textMaterial: {fileID: 2100000, guid: b188204625383824ab4c74f6d2c79a75, type: 2}
   audioSource: {fileID: 4301913323131639786}
 --- !u!114 &3447350861538796616

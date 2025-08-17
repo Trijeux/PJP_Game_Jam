@@ -17,11 +17,7 @@ public class EagleView2 : MonoBehaviour
     [SerializeField] private Material platformMaterial;
     [SerializeField] private Material invisiblePlatformMaterial;
     [SerializeField] private Material textMaterial;
-<<<<<<< HEAD
-    [SerializeField] private Material lever2Material;
-=======
     [SerializeField] private AudioSource audioSource;
->>>>>>> 43cbc4d68392a3d24565bc0e2b472bce83523cbc
 
     private float _outlineBaseValue;
     private int _outlineFullBaseValue;
@@ -32,7 +28,6 @@ public class EagleView2 : MonoBehaviour
     private float _platformBaseValue;
     private int _invisiblePlatformBaseValue;
     private int _textBaseValue;
-    private float _lever2BaseValue;
     
     
     private bool _flag = false;
@@ -54,7 +49,6 @@ public class EagleView2 : MonoBehaviour
         _platformBaseValue = platformMaterial.GetFloat(Thickness);
         _invisiblePlatformBaseValue = invisiblePlatformMaterial.GetInt(Active);
         _textBaseValue = textMaterial.GetInt(Active);
-        _lever2BaseValue = lever2Material.GetFloat(Thickness);
             
         
         outlineMaterial.SetFloat(Thickness, 0);
@@ -66,7 +60,6 @@ public class EagleView2 : MonoBehaviour
         platformMaterial.SetFloat(Thickness, 0);
         invisiblePlatformMaterial.SetInt(Active, 0);
         textMaterial.SetInt(Active, 0);
-        lever2Material.SetFloat(Thickness, 0);
     }
 
     private void Update()
@@ -93,7 +86,6 @@ public class EagleView2 : MonoBehaviour
             }
             
             textMaterial.SetInt(Active, textMaterial.GetInt(Active) == 0 ? 1 : 0);
-            lever2Material.SetFloat(Thickness, lever2Material.GetFloat(Thickness) == _lever2BaseValue ? 1.0f : _lever2BaseValue);
         }
         else if (!_inputEagleView)
         {
@@ -122,6 +114,5 @@ public class EagleView2 : MonoBehaviour
         }
         
         textMaterial.SetInt(Active, _textBaseValue);
-        lever2Material.SetFloat(Thickness, _lever2BaseValue);
     }
 }

@@ -6,17 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8c546ae-2839-4f60-8ad7-0e00a225f441" name="Changes" comment="">
 <<<<<<< HEAD
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Final Dossier/Scene/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Final Dossier/Scene/Game.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Scene/Test.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Scene/Test.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/FallingPlatform.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/FallingPlatform.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/FallingPlatform.cs~" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Materials/OutlineMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Materials/OutlineMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Player.prefab" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Switch.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Switch.prefab" afterDir="false" />
-=======
-<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Final Dossier/Scene/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Final Dossier/Scene/Game.unity" afterDir="false" />
@@ -35,7 +24,6 @@
       <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/PlayerController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/TPDeadZone.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/TPDeadZone.cs" afterDir="false" />
 >>>>>>> origin/main
->>>>>>> 43cbc4d68392a3d24565bc0e2b472bce83523cbc
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
