@@ -4,17 +4,20 @@
 using System;
 using UnityEngine;
 
-public class TPDeadZone : MonoBehaviour
+public class AudioStep : MonoBehaviour
 {
     #region Attributs
 
-
+	[SerializeField] private AudioSource _audio;
 
     #endregion
 
     #region Methods
 
-
+	public void PlayAudio()
+	{
+		_audio.Play();
+	}
 
     #endregion
 

@@ -38,10 +38,11 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private GameObject checkGoundObject;
     
     [Header("Audio Settings")] 
-    [SerializeField] private AudioSource deathSound;
-    [SerializeField] private AudioSource itemSound;
-    private bool specteSoundFlag = false;
-    [SerializeField] private AudioSource SpecteSound;
+    [SerializeField] private AudioClip stepSound;
+    [SerializeField] private AudioClip deathSound;
+    [SerializeField] private AudioClip itemSound;
+    [SerializeField] private AudioClip SpecteSound;
+    [SerializeField] private AudioClip VisionSound;
 
     [Header("Timer Settings")] [SerializeField]
     private float doubleTapTime = 0.25f;
@@ -175,43 +176,37 @@ public class PlayerController : MonoBehaviour
 
     public void ActiveJumpPower()
     {
-        itemSound.Play();
         JumpPower = true;
     }
     
     public void ActiveVisionPower()
     {
-        itemSound.Play();
         VisionPower = true;
     }
 
     public void ActiveDoubleJumpPower()
     {
-        itemSound.Play();
         DoubleJumpPower = true;
     }
 
     public void ActiveSpectralPower()
     {
-        itemSound.Play();
         SpectralPower = true;
     }
 
     public void ActiveDashPower()
     {
-        itemSound.Play();
         DashPower = true;
     }
 
     public void ActiveRunPower()
     {
-        itemSound.Play();
         RunPower = true;
     }
 
     public void DeadSound()
     {
-        deathSound.Play();
+        deathSound.;
     }
     
     #endregion
@@ -307,6 +302,7 @@ public class PlayerController : MonoBehaviour
         
         _eagleView2.enabled = VisionPower;
 
+
         if (checkGoundObject.transform.position.x != 0f || checkGoundObject.transform.position.y != 0f || checkGoundObject.transform.position.z != 0f)
         {
             checkGoundObject.transform.localPosition = new Vector3(0f,0f,0f);
@@ -365,16 +361,10 @@ public class PlayerController : MonoBehaviour
             }
             
             specte.transform.localPosition = new Vector3(0,0);
-            _specteRenderer.color = new Color(_specteRenderer.color.r, _specteRenderer.color.g, _specteRenderer.color.b, 0f);
-            specteSoundFlag = false;
+            _specteRenderer.color = new Color(_specteRenderer.color.r, _specteRenderer.color.g, _specteRenderer.color.b, 0f); ;
         }
         else if (_inputSpectralMode && SpectralPower)
         {
-            if (!specteSoundFlag)
-            {
-                SpecteSound.Play();
-                specteSoundFlag = true;
-            }
             _specteRenderer.color = new Color(_specteRenderer.color.r, _specteRenderer.color.g, _specteRenderer.color.b, 78f); ;
             SpecrtMove();
         }

@@ -31,6 +31,7 @@ public class TPDeadZone : MonoBehaviour
     {
         if (other.CompareTag(playerTag))
         {
+            other.GetComponent<PlayerController>().DeadSound();
             other.gameObject.transform.position = tpZone.transform.position;
         }
     }

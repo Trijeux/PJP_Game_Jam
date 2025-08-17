@@ -52,6 +52,7 @@ public class FlameScript : MonoBehaviour
     {
 		if (other.tag == "Player")
 		{
+			other.GetComponent<PlayerController>().DeadSound();
 			other.transform.position = new Vector3(spawnPoint.position.x, spawnPoint.position.y);
 		}
     }
