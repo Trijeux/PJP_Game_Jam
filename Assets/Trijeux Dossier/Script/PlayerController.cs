@@ -35,9 +35,17 @@ public class PlayerController : MonoBehaviour
 
     [Header("Timer Settings")] [SerializeField]
     private float doubleTapTime = 0.25f;
-
     [SerializeField] private float coyoteTime = 0.1f;
-
+    
+    [Header("Power")]
+    [SerializeField] private bool JumpPower = false;
+    [SerializeField] private bool RunPower = false;
+    [SerializeField] private bool VisionPower = false;
+    [SerializeField] private bool SpectralPower = false;
+    [SerializeField] private bool DoubleJumpPower = false;
+    [SerializeField] private bool DashPower = false;
+    
+    
     private float _inputLeftRight;
     private bool _inputDash;
     private bool _inputJump;
@@ -234,13 +242,13 @@ public class PlayerController : MonoBehaviour
         {
             if (!_isRunDash)
             {
-                if (_isRunning)
+                if (_isRunning && RunPower)
                     Run();
                 else
                     Move();
 
                 // Premier saut (sol ou coyote)
-                if ((_checkGround.IsGrounded || _isCoyote) && _inputJump && !_isJumping)
+                if ((_checkGround.IsGrounded || _isCoyote) && _inputJump && !_isJumping && JumpPower)
                 {
                     Jump();
                     _isJumping = true;
@@ -248,7 +256,7 @@ public class PlayerController : MonoBehaviour
                 }
 
                 // Double saut (uniquement après avoir sauté une fois et avoir relâché la touche)
-                if (_readyToDoubleJump && _inputJump && !_isDoubleJump)
+                if (_readyToDoubleJump && _inputJump && !_isDoubleJump && DoubleJumpPower)
                 {
                     Jump();
                     _isDoubleJump = true;
@@ -256,7 +264,7 @@ public class PlayerController : MonoBehaviour
                 }
             }
 
-            if (_inputDash && !_isDashing)
+            if (_inputDash && !_isDashing && DashPower)
             {
                 Dash((int)Mathf.Sign(_inputLeftRight));
             }
@@ -273,7 +281,7 @@ public class PlayerController : MonoBehaviour
             
             specte.transform.localPosition = new Vector3(0,0);
         }
-        else if (_inputSpectralMode)
+        else if (_inputSpectralMode && SpectralPower)
         {
             SpecrtMove();
         }
