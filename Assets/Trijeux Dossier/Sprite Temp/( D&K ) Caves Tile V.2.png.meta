@@ -268,12 +268,12 @@ TextureImporter:
       name: ( D&K ) Caves Tile V.2_0
       rect:
         serializedVersion: 2
-        x: 81
+        x: 80
         y: 64
-        width: 14
-        height: 7
+        width: 16
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -290,10 +290,10 @@ TextureImporter:
       name: ( D&K ) Caves Tile V.2_40
       rect:
         serializedVersion: 2
-        x: 81
+        x: 80
         y: 48
-        width: 14
-        height: 7
+        width: 16
+        height: 8
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -304,6 +304,28 @@ TextureImporter:
       bones: []
       spriteID: c6b1a896c95171460800000000000000
       internalID: 7212257089786878828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ( D&K ) Caves Tile V.2_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 48
+        width: 10
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c39ce164d5aa6c44ca78bc296d015a77
+      internalID: -1275481680581982614
       vertices: []
       indices: 
       edges: []

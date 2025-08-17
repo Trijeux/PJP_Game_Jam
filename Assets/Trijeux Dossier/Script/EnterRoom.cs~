@@ -1,0 +1,47 @@
+// Script by : Trijeux
+// Porject : PJPJam
+
+using System;
+using Unity.Cinemachine;
+using UnityEngine;
+
+public class EnterRoom : MonoBehaviour
+{
+    #region Attributs
+
+    [SerializeField] private CinemachineCamera _cameraRoom;
+    [SerializeField] private Transform _spawnPlayer;
+
+    #endregion
+
+    #region Methods
+
+
+
+    #endregion
+
+    #region InputSystem
+
+
+
+    #endregion
+
+    #region Behaviors
+
+    private void Start()
+    {
+        
+    }
+
+    private void Update()
+    {
+        
+    }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        _cameraRoom
+    }
+
+    #endregion
+}
