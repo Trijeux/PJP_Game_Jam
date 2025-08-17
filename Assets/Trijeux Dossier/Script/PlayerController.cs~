@@ -14,7 +14,6 @@ public class PlayerController : MonoBehaviour
 
     private Rigidbody2D _rb;
     private CheckGround _checkGround;
-    private EagleView2 _eagleView2;
 
     [Header("Player Settings")] [SerializeField]
     private float jumpForce = 10f;
@@ -197,7 +196,6 @@ public class PlayerController : MonoBehaviour
         _rb = GetComponent<Rigidbody2D>();
         _checkGround = GetComponentInChildren<CheckGround>();
         specteRb = specte.GetComponent<Rigidbody2D>();
-        _eagleView2 = GetComponent<EagleView2>();
     }
 
     private void Update()
@@ -234,11 +232,6 @@ public class PlayerController : MonoBehaviour
                 mainCam.Priority = 0;
                 spectCam.Priority = 1;
                 break;
-        }
-
-        if (VisionPower)
-        {
-            _eagleView2.enabled = true;
         }
     }
 
