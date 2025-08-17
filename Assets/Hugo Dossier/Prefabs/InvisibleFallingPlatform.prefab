@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6190777725474212588}
   - component: {fileID: 1495652577755597450}
   m_Layer: 0
-  m_Name: FallingPlatform
+  m_Name: InvisibleFallingPlatform
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -97,7 +97,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 0.3125}
+    oldSize: {x: 1.125, y: 0.4375}
     newSize: {x: 1, y: 0.3125}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -143,7 +143,7 @@ BoxCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 0.3125}
+    oldSize: {x: 1.125, y: 0.4375}
     newSize: {x: 1, y: 0.3125}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -174,7 +174,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: a97c105638bdf8b4a8650670310a4cd3, type: 2}
+  - {fileID: 2100000, guid: 402d338e0a34ba1418f176c5098feb7c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
