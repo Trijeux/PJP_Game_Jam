@@ -8,6 +8,7 @@ public class FlameScript : MonoBehaviour
 {
     #region Attributs
 
+    [SerializeField] private Transform spawnPoint;
     public bool IsRun { get; private set; } = false;
     private BoxCollider2D _collider;
 
@@ -47,5 +48,13 @@ public class FlameScript : MonoBehaviour
         
     }
 
-	#endregion
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+		if (other.tag == "Player")
+		{
+			other.transform.position = new Vector3(spawnPoint.position.x, spawnPoint.position.y);
+		}
+    }
+
+    #endregion
 }
