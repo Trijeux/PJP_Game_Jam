@@ -33,6 +33,7 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D specteRb;
     [SerializeField] CinemachineCamera mainCam;
     [SerializeField] CinemachineCamera spectCam;
+    [SerializeField] private GameObject checkGoundObject;
 
     [Header("Timer Settings")] [SerializeField]
     private float doubleTapTime = 0.25f;
@@ -274,6 +275,14 @@ public class PlayerController : MonoBehaviour
         }
         
         _eagleView2.enabled = VisionPower;
+
+
+        if (checkGoundObject.transform.position.x != 0f || checkGoundObject.transform.position.y != 0f || checkGoundObject.transform.position.z != 0f)
+        {
+            checkGoundObject.transform.localPosition = new Vector3(0f,0f,0f);
+        }
+        
+        
     }
 
 
