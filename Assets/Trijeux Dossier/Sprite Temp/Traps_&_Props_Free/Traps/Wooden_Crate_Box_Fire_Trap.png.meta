@@ -1,0 +1,1089 @@
+fileFormatVersion: 2
+guid: 279f7407bf64a7d4384fd227b3a4b6c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2507329179646271585
+    second: Wooden_Crate_Box_Fire_Trap_0
+  - first:
+      213: 1146279554934393671
+    second: Wooden_Crate_Box_Fire_Trap_1
+  - first:
+      213: 1409837369289329616
+    second: Wooden_Crate_Box_Fire_Trap_2
+  - first:
+      213: -4357015594513427123
+    second: Wooden_Crate_Box_Fire_Trap_3
+  - first:
+      213: -3680195028911587680
+    second: Wooden_Crate_Box_Fire_Trap_4
+  - first:
+      213: -8068590838856572036
+    second: Wooden_Crate_Box_Fire_Trap_5
+  - first:
+      213: 1911528439501560583
+    second: Wooden_Crate_Box_Fire_Trap_6
+  - first:
+      213: -4411545912333071704
+    second: Wooden_Crate_Box_Fire_Trap_7
+  - first:
+      213: -5462631037339237250
+    second: Wooden_Crate_Box_Fire_Trap_8
+  - first:
+      213: -8058582275131346596
+    second: Wooden_Crate_Box_Fire_Trap_9
+  - first:
+      213: 7458198101970561942
+    second: Wooden_Crate_Box_Fire_Trap_10
+  - first:
+      213: 3549970135726322964
+    second: Wooden_Crate_Box_Fire_Trap_11
+  - first:
+      213: -5178195229015978069
+    second: Wooden_Crate_Box_Fire_Trap_12
+  - first:
+      213: 7637195880616609519
+    second: Wooden_Crate_Box_Fire_Trap_13
+  - first:
+      213: 2138113403478783208
+    second: Wooden_Crate_Box_Fire_Trap_14
+  - first:
+      213: -5961685739137917067
+    second: Wooden_Crate_Box_Fire_Trap_15
+  - first:
+      213: -7166906818645595962
+    second: Wooden_Crate_Box_Fire_Trap_16
+  - first:
+      213: -97236075540552997
+    second: Wooden_Crate_Box_Fire_Trap_17
+  - first:
+      213: 8651314680220146864
+    second: Wooden_Crate_Box_Fire_Trap_18
+  - first:
+      213: -5926081439954808054
+    second: Wooden_Crate_Box_Fire_Trap_19
+  - first:
+      213: 6761454250405724245
+    second: Wooden_Crate_Box_Fire_Trap_20
+  - first:
+      213: 3004177554226331658
+    second: Wooden_Crate_Box_Fire_Trap_21
+  - first:
+      213: -2860301972787657241
+    second: Wooden_Crate_Box_Fire_Trap_22
+  - first:
+      213: -1120935685060382701
+    second: Wooden_Crate_Box_Fire_Trap_23
+  - first:
+      213: 1882412127272280759
+    second: Wooden_Crate_Box_Fire_Trap_24
+  - first:
+      213: 7443024278793839007
+    second: Wooden_Crate_Box_Fire_Trap_25
+  - first:
+      213: -2064518620450333423
+    second: Wooden_Crate_Box_Fire_Trap_26
+  - first:
+      213: -3808109027601610108
+    second: Wooden_Crate_Box_Fire_Trap_27
+  - first:
+      213: 1612856507787476383
+    second: Wooden_Crate_Box_Fire_Trap_28
+  - first:
+      213: -8579985938888560958
+    second: Wooden_Crate_Box_Fire_Trap_29
+  - first:
+      213: -7369806305029374196
+    second: Wooden_Crate_Box_Fire_Trap_30
+  - first:
+      213: -5390090851843583694
+    second: Wooden_Crate_Box_Fire_Trap_31
+  - first:
+      213: 1990913232547832398
+    second: Wooden_Crate_Box_Fire_Trap_32
+  - first:
+      213: -2123581517990916748
+    second: Wooden_Crate_Box_Fire_Trap_33
+  - first:
+      213: 7865359553861219813
+    second: Wooden_Crate_Box_Fire_Trap_34
+  - first:
+      213: 3537184284042618878
+    second: Wooden_Crate_Box_Fire_Trap_35
+  - first:
+      213: 4357599391979096685
+    second: Wooden_Crate_Box_Fire_Trap_36
+  - first:
+      213: 3775976228749444094
+    second: Wooden_Crate_Box_Fire_Trap_37
+  - first:
+      213: -6627541086457814628
+    second: Wooden_Crate_Box_Fire_Trap_38
+  - first:
+      213: -7682572779748146437
+    second: Wooden_Crate_Box_Fire_Trap_39
+  - first:
+      213: 6253125402796804306
+    second: Wooden_Crate_Box_Fire_Trap_40
+  - first:
+      213: 2967178100983573432
+    second: Wooden_Crate_Box_Fire_Trap_41
+  - first:
+      213: 7254402839595283651
+    second: Wooden_Crate_Box_Fire_Trap_42
+  - first:
+      213: -2649103185569153874
+    second: Wooden_Crate_Box_Fire_Trap_43
+  - first:
+      213: 5889044821759171887
+    second: Wooden_Crate_Box_Fire_Trap_44
+  - first:
+      213: 3937161377893864043
+    second: Wooden_Crate_Box_Fire_Trap_45
+  - first:
+      213: 31834260891207080
+    second: Wooden_Crate_Box_Fire_Trap_46
+  - first:
+      213: 8643467899103900495
+    second: Wooden_Crate_Box_Fire_Trap_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_0
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d08ae44f880d044af33339fff3ae9f
+      internalID: -1226523284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26b5b101bae354982c844f93b957d0
+      internalID: -435647647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_2
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea0a1a188ae8e94580b77bfc0412524
+      internalID: -92813341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_3
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e5292f10dc2c946a0b98b0babe0c2f
+      internalID: -715679230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20380c13b70f9d54f86f1c3a9e5da31c
+      internalID: 1805054355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab5dcd3863060943a4adadd59f1d949
+      internalID: 474623829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_6
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9aaf823e0642f94f90c2d4894ea0822
+      internalID: -528537625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62ada4263bba164ea4a44af431d09fd
+      internalID: 411620251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b1877dce5abbb4b967ce86332b7b25
+      internalID: 1303311481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e452bcc5cec3a534da38ec8b28e2e13d
+      internalID: 910156785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266e68028b35db4186ed58b5550a5ce
+      internalID: -1160108543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf862c8f15c24a44bebf0e2e53fddc9
+      internalID: 57788825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_12
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d12b089a0b51844b9c8e379108f616
+      internalID: 1792226115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_13
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70eec3b71b4672148baed66ea30ecc7c
+      internalID: 949582888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_14
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347174a94bf69bc4eb7f6cb57cc158aa
+      internalID: 2079260466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_15
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a4f014485a1484a9ac75037dcdb612
+      internalID: -1735129871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_16
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46701d5400dd006419a71d61cfa92809
+      internalID: -896331283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_17
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 493e223224aefbe408bb1b62d5435578
+      internalID: 2092563051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_18
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f21cffe0c2215954781f0c632a00f6d4
+      internalID: 146396438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_19
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b252cb8249183fb42a234d437f0ce334
+      internalID: 1418072398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_20
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 556a9456fc9408a47b99005f5028f3c9
+      internalID: 1114692856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_21
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c24280061286ea4ba405b9ef3c7a18e
+      internalID: 591010239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_22
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5966d65550ae4b448aafd93a53d13d14
+      internalID: 601313161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_23
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9446a712543e364393dafab8a54ace5
+      internalID: -53527900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_24
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38439b44a89a48747bd6d253cfd238d4
+      internalID: 1471297818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fedd7f21dfb901544a727ae0e90f5365
+      internalID: -1406077596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_26
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83628ca08b94dd24bb71c25b0783a1fe
+      internalID: 498866031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_27
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 108af6463f7da584db727fe0289ab2ea
+      internalID: -103776227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_28
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a65d2faa0e496468b8cb07a997f2a3
+      internalID: -1019427693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_29
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f681a74733105b4abc4f11b0bad862e
+      internalID: 1512399987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1fbbaed6bb9184ab5a80e27bb5b761
+      internalID: -2036779604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_31
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fcba5f1e6f96484499f147db764044c
+      internalID: -645230262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cd7b4041830e9b45ad3a86a3b0da3ac
+      internalID: 568936349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_33
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54bb4f32ede8a2f45969cf4e5cdeb2fd
+      internalID: 588432971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_34
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4346bb43c846a2a4e895b93cc62f4269
+      internalID: -542410590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Wooden_Crate_Box_Fire_Trap_35
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b1a7a2432b93746ae45974f97f1f23
+      internalID: -196985059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 137687fb8155eef41913aa43e7adc10b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Wooden_Crate_Box_Fire_Trap_0: -1226523284
+      Wooden_Crate_Box_Fire_Trap_1: -435647647
+      Wooden_Crate_Box_Fire_Trap_10: -1160108543
+      Wooden_Crate_Box_Fire_Trap_11: 57788825
+      Wooden_Crate_Box_Fire_Trap_12: 1792226115
+      Wooden_Crate_Box_Fire_Trap_13: 949582888
+      Wooden_Crate_Box_Fire_Trap_14: 2079260466
+      Wooden_Crate_Box_Fire_Trap_15: -1735129871
+      Wooden_Crate_Box_Fire_Trap_16: -896331283
+      Wooden_Crate_Box_Fire_Trap_17: 2092563051
+      Wooden_Crate_Box_Fire_Trap_18: 146396438
+      Wooden_Crate_Box_Fire_Trap_19: 1418072398
+      Wooden_Crate_Box_Fire_Trap_2: -92813341
+      Wooden_Crate_Box_Fire_Trap_20: 1114692856
+      Wooden_Crate_Box_Fire_Trap_21: 591010239
+      Wooden_Crate_Box_Fire_Trap_22: 601313161
+      Wooden_Crate_Box_Fire_Trap_23: -53527900
+      Wooden_Crate_Box_Fire_Trap_24: 1471297818
+      Wooden_Crate_Box_Fire_Trap_25: -1406077596
+      Wooden_Crate_Box_Fire_Trap_26: 498866031
+      Wooden_Crate_Box_Fire_Trap_27: -103776227
+      Wooden_Crate_Box_Fire_Trap_28: -1019427693
+      Wooden_Crate_Box_Fire_Trap_29: 1512399987
+      Wooden_Crate_Box_Fire_Trap_3: -715679230
+      Wooden_Crate_Box_Fire_Trap_30: -2036779604
+      Wooden_Crate_Box_Fire_Trap_31: -645230262
+      Wooden_Crate_Box_Fire_Trap_32: 568936349
+      Wooden_Crate_Box_Fire_Trap_33: 588432971
+      Wooden_Crate_Box_Fire_Trap_34: -542410590
+      Wooden_Crate_Box_Fire_Trap_35: -196985059
+      Wooden_Crate_Box_Fire_Trap_4: 1805054355
+      Wooden_Crate_Box_Fire_Trap_5: 474623829
+      Wooden_Crate_Box_Fire_Trap_6: -528537625
+      Wooden_Crate_Box_Fire_Trap_7: 411620251
+      Wooden_Crate_Box_Fire_Trap_8: 1303311481
+      Wooden_Crate_Box_Fire_Trap_9: 910156785
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
