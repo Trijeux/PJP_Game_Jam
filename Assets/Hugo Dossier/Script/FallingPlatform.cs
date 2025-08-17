@@ -8,11 +8,13 @@ using UnityEngine.Serialization;
 
 public class FallingPlatform : MonoBehaviour
 {
-    
+    [SerializeField] private float falling_speed;
     [SerializeField] private Animator animator;
     private Coroutine _fallingPlatformCoroutine;
     public bool is_dead;
     private Rigidbody2D body;
+
+    
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -47,7 +49,7 @@ public class FallingPlatform : MonoBehaviour
 
     IEnumerator WaitTime()
     {
-        yield return new WaitForSeconds(1f);
+        yield return new WaitForSeconds(falling_speed);
         body.bodyType = RigidbodyType2D.Dynamic;
         body.constraints = body.constraints ^ RigidbodyConstraints2D.FreezePositionY;
         animator.SetBool("Is_falling", true);

@@ -7,30 +7,22 @@ using UnityEngine.Serialization;
 
 public class Pie_Script : MonoBehaviour
 {
-	[Header("Good answer pie")]
-	public GameObject goodAnswer;
+    [SerializeField] public GameObject goodAnswer;
 
-	[Header("Dash item")]
-	public GameObject dashItem;
+    [SerializeField] public GameObject dashItem;
 
-	private void Start()
-	{
-		// On s'assure que l'objet à afficher est désactivé au début
-		if (dashItem != null)
-			dashItem.SetActive(false);
-	}
-	private void OnTriggerEnter(Collider other)
-	{
-		// Vérifie que c'est bien un objet qui doit déclencher (par exemple Player)
-		if (other.CompareTag("Player"))
-		{
-			// Désactiver ou détruire l'objet
-			if (goodAnswer != null)
-				goodAnswer.SetActive(false); // ou Destroy(objetADetruire);
+    private void Start()
+    {
+        dashItem.SetActive(false);
+    }
 
-			// Activer l'autre objet
-			if (dashItem != null)
-				dashItem.SetActive(true);
-		}
-	}
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Player"))
+        {
+            dashItem.SetActive(true);
+            
+            goodAnswer.SetActive(false);
+        }
+    }
 }
