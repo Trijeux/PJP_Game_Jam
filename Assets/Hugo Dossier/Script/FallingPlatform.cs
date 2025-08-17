@@ -37,7 +37,6 @@ public class FallingPlatform : MonoBehaviour
     
     void OnCollisionEnter2D(Collision2D other)
     {
-        Debug.Log(other.gameObject.name);
         if(animator.GetBool("Is_falling") && !other.gameObject.CompareTag("Player"))
         {
             is_dead = true;
