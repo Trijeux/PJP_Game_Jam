@@ -48,6 +48,6 @@ public class EagleView2 : MonoBehaviour
     private void OnApplicationQuit()
     {
         outlineMaterial.SetFloat(Thickness, _outlineBaseValue);
-        outlineMaterialTransparent.SetInt("Active", _outlineTransparentBaseValue);
+        outlineMaterialTransparent.SetInt(Active, _outlineTransparentBaseValue);
     }
 }
