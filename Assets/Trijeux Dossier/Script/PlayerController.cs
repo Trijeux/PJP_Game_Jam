@@ -235,11 +235,8 @@ public class PlayerController : MonoBehaviour
                 spectCam.Priority = 1;
                 break;
         }
-
-        if (VisionPower)
-        {
-            _eagleView2.enabled = true;
-        }
+        
+        _eagleView2.enabled = VisionPower;
     }
 
 
