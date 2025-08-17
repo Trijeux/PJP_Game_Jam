@@ -1,5 +1,6 @@
 using System;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class DoorEnd : MonoBehaviour
 {
@@ -16,6 +17,7 @@ public class DoorEnd : MonoBehaviour
             if (_playerController.InputInteract)
             {
                 Debug.LogWarning("Switch End Scene");
+                SceneManager.LoadScene("GameOver");
             }
         }
     }
