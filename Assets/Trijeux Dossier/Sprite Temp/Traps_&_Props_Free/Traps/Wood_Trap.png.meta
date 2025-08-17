@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wood_Trap_0: -2257678518191857665
+      Wood_Trap_1: 7239554275174304835
+      Wood_Trap_2: -3431444664387664481
+      Wood_Trap_3: -2830907592756710224
+      Wood_Trap_4: -3323884175850207655
+      Wood_Trap_5: 2613626855416844943
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

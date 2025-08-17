@@ -9,10 +9,14 @@ public class EagleView2 : MonoBehaviour
     private static readonly int Active = Shader.PropertyToID("_Active");
 
     [SerializeField] private Material outlineMaterial;
+    [SerializeField] private Material outlineMaterialFull;
     [SerializeField] private Material outlineMaterialTransparent;
+    [SerializeField] private Material vanishingMaterial;
 
     private float _outlineBaseValue;
-    private int _outlineTransparentBaseValue;
+    private int _outlineFullBaseValue;
+    private float _outlineTransparentBaseValue;
+    private int _vanishingBaseValue;
     
     private bool _flag = false;
     private bool _inputEagleView = false;
@@ -25,10 +29,14 @@ public class EagleView2 : MonoBehaviour
     private void Awake()
     {
         _outlineBaseValue = outlineMaterial.GetFloat(Thickness);
-        _outlineTransparentBaseValue = outlineMaterialTransparent.GetInt(Active);
+        _outlineFullBaseValue = outlineMaterialFull.GetInt(Active);
+        _outlineTransparentBaseValue = outlineMaterialTransparent.GetFloat(Thickness);
+        _vanishingBaseValue = vanishingMaterial.GetInt(Active);
         
         outlineMaterial.SetFloat(Thickness, 0);
-        outlineMaterialTransparent.SetInt(Active, 0);
+        outlineMaterialFull.SetInt(Active, 0);
+        outlineMaterialTransparent.SetFloat(Thickness, 0);
+        vanishingMaterial.SetInt(Active, 0);
     }
 
     private void Update()
@@ -36,7 +44,9 @@ public class EagleView2 : MonoBehaviour
         if (_inputEagleView && !_flag)
         {
             outlineMaterial.SetFloat(Thickness, outlineMaterial.GetFloat(Thickness ) == _outlineBaseValue ? 0.0f : _outlineBaseValue);
-            outlineMaterialTransparent.SetInt(Active, outlineMaterialTransparent.GetInt(Active) == 0 ? 1 : 0);
+            outlineMaterialFull.SetInt(Active, outlineMaterialFull.GetInt(Active) == 0 ? 1 : 0);
+            outlineMaterialTransparent.SetFloat(Thickness, outlineMaterialTransparent.GetInt(Thickness) == _outlineTransparentBaseValue ? 0.0f : _outlineTransparentBaseValue);
+            vanishingMaterial.SetInt(Active, vanishingMaterial.GetInt(Active) == 0 ? 1 : 0);
             _flag = true;
         }
         else if (!_inputEagleView)
@@ -48,6 +58,8 @@ public class EagleView2 : MonoBehaviour
     private void OnApplicationQuit()
     {
         outlineMaterial.SetFloat(Thickness, _outlineBaseValue);
-        outlineMaterialTransparent.SetInt(Active, _outlineTransparentBaseValue);
+        outlineMaterialFull.SetInt(Active, _outlineFullBaseValue);
+        outlineMaterialTransparent.SetFloat(Thickness, _outlineTransparentBaseValue);
+        vanishingMaterial.SetInt(Active, _vanishingBaseValue);
     }
 }

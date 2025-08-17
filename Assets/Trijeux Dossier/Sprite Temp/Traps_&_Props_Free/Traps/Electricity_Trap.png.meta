@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Electricity_Trap_0: 5622724565557407103
+      Electricity_Trap_1: 7044560384414446545
+      Electricity_Trap_10: -5217255442200267121
+      Electricity_Trap_11: 4116857819608964871
+      Electricity_Trap_12: 3830176298758784514
+      Electricity_Trap_13: 4546335522524835476
+      Electricity_Trap_14: -2928219735134515682
+      Electricity_Trap_2: 4090460859368417997
+      Electricity_Trap_3: -5001857961179963595
+      Electricity_Trap_4: 108890573457455907
+      Electricity_Trap_5: -7911954776418791529
+      Electricity_Trap_6: 5022284369450518415
+      Electricity_Trap_7: -2451989487648218229
+      Electricity_Trap_8: -3817146736823278468
+      Electricity_Trap_9: 9120952301466423969
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Wood_Treasure_Chest_0: -1388836525988452884
+      Wood_Treasure_Chest_1: 2238191128638399360
+      Wood_Treasure_Chest_2: -6470933967337085682
+      Wood_Treasure_Chest_3: 5997275643744523793
+      Wood_Treasure_Chest_4: 4955604382115019518
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
