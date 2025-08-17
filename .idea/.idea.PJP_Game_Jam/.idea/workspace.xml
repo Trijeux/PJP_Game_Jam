@@ -5,11 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c546ae-2839-4f60-8ad7-0e00a225f441" name="Changes" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Final Dossier/Scene/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Final Dossier/Scene/Game.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/M&amp;B Dossier/Script/NewBehaviourScript.cs" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/M&amp;B Dossier/Script/NewBehaviourScript.cs.meta" beforeDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Player.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Run.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Run.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Walking.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Walking.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Materials/TextMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Materials/TextMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/FlameScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/FlameScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/TPDeadZone.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/TPDeadZone.cs" afterDir="false" />
+>>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,10 +109,14 @@
       <workItem from="1755419399574" duration="343000" />
       <workItem from="1755422524656" duration="9424000" />
       <workItem from="1755443868522" duration="1202000" />
+<<<<<<< HEAD
       <workItem from="1755450000186" duration="3000" />
       <workItem from="1755450011860" duration="7000" />
       <workItem from="1755450276186" duration="436000" />
       <workItem from="1755450730359" duration="50000" />
+=======
+      <workItem from="1755449014359" duration="2817000" />
+>>>>>>> origin/main
     </task>
     <servers />
   </component>
