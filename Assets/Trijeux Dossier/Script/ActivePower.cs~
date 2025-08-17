@@ -1,0 +1,40 @@
+// Script by : Trijeux
+// Porject : PJPJam
+
+using System;
+using UnityEngine;
+
+public class ActivePower : MonoBehaviour
+{
+    #region Attributs
+
+
+
+    #endregion
+
+    #region Methods
+
+
+
+    #endregion
+
+    #region InputSystem
+
+
+
+    #endregion
+
+    #region Behaviors
+
+    private void Start()
+    {
+        
+    }
+
+    private void Update()
+    {
+        
+    }
+
+	#endregion
+}

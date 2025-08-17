@@ -409,7 +409,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -423,7 +423,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -447,7 +447,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -3234,7 +3234,132 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Horse_socks_brown_0: -5336170234682838108
+      Horse_socks_brown_1: -5278346578159203587
+      Horse_socks_brown_10: 8027094524971308962
+      Horse_socks_brown_100: -1586570810348531611
+      Horse_socks_brown_101: 4850647839306354711
+      Horse_socks_brown_102: -7071490194189592570
+      Horse_socks_brown_103: -6322600615236449560
+      Horse_socks_brown_104: 3392464801277742802
+      Horse_socks_brown_105: 1196940571606890441
+      Horse_socks_brown_106: -9053486958343690775
+      Horse_socks_brown_107: -1523240756378089807
+      Horse_socks_brown_108: 8633610706664617026
+      Horse_socks_brown_109: -2096060017558090053
+      Horse_socks_brown_11: -5097145072015818243
+      Horse_socks_brown_110: -9183297500745977490
+      Horse_socks_brown_111: 4231533528056526527
+      Horse_socks_brown_112: -4923642229715277990
+      Horse_socks_brown_113: 5689334996150066972
+      Horse_socks_brown_114: -5962886495998515611
+      Horse_socks_brown_115: 4256853289652596583
+      Horse_socks_brown_116: -5251506278898394266
+      Horse_socks_brown_117: 7279196905392477028
+      Horse_socks_brown_118: 3988023720917488435
+      Horse_socks_brown_119: 6232430982401052632
+      Horse_socks_brown_12: 5295968695169402634
+      Horse_socks_brown_120: -6327464290913108630
+      Horse_socks_brown_121: 2559025404141636541
+      Horse_socks_brown_122: -3506079769477579597
+      Horse_socks_brown_123: 1937606282297002900
+      Horse_socks_brown_124: -2877489789849496714
+      Horse_socks_brown_13: 2860807701414744455
+      Horse_socks_brown_14: -1006364108174187244
+      Horse_socks_brown_15: -801440408207166150
+      Horse_socks_brown_16: 4862838323895549074
+      Horse_socks_brown_17: -8303876237126588564
+      Horse_socks_brown_18: -3577079649457381156
+      Horse_socks_brown_19: 3636215812612382233
+      Horse_socks_brown_2: 7862179998043250740
+      Horse_socks_brown_20: -2918799086012372911
+      Horse_socks_brown_21: 6857566833493156298
+      Horse_socks_brown_22: -5900708001993860470
+      Horse_socks_brown_23: 3047762875431618809
+      Horse_socks_brown_24: 940806266304101174
+      Horse_socks_brown_25: 7633821443354639390
+      Horse_socks_brown_26: -4074139256180028352
+      Horse_socks_brown_27: -8093489339094322011
+      Horse_socks_brown_28: -6485721939177760796
+      Horse_socks_brown_29: -9147901131867222910
+      Horse_socks_brown_3: 4525577760489269406
+      Horse_socks_brown_30: -3850550394343831077
+      Horse_socks_brown_31: 959035320164997109
+      Horse_socks_brown_32: 3690563884356649026
+      Horse_socks_brown_33: -414634529392650576
+      Horse_socks_brown_34: -77811095122675258
+      Horse_socks_brown_35: -7360519735747909377
+      Horse_socks_brown_36: 3477014707627425344
+      Horse_socks_brown_37: 8482872682424175914
+      Horse_socks_brown_38: -8673693431697796416
+      Horse_socks_brown_39: 7006995253005170906
+      Horse_socks_brown_4: 8515640111164297596
+      Horse_socks_brown_40: -494452058560905828
+      Horse_socks_brown_41: 8663279296099299849
+      Horse_socks_brown_42: -3561841682949887103
+      Horse_socks_brown_43: -7293879781582017920
+      Horse_socks_brown_44: 7354755567513818535
+      Horse_socks_brown_45: 6630544767487538334
+      Horse_socks_brown_46: 7508353731055693289
+      Horse_socks_brown_47: 6854544078472463928
+      Horse_socks_brown_48: -3263443188958432236
+      Horse_socks_brown_49: -5342348204811584477
+      Horse_socks_brown_5: -6211954508596549675
+      Horse_socks_brown_50: 5310233037996490402
+      Horse_socks_brown_51: -242825008230482321
+      Horse_socks_brown_52: -458833181791624922
+      Horse_socks_brown_53: -4806673328087404874
+      Horse_socks_brown_54: -1095488200706528035
+      Horse_socks_brown_55: -6756821492542880365
+      Horse_socks_brown_56: 4832620694473389903
+      Horse_socks_brown_57: 166238728971234405
+      Horse_socks_brown_58: 3935953016616412369
+      Horse_socks_brown_59: 4800920496589743740
+      Horse_socks_brown_6: 7234412551502950524
+      Horse_socks_brown_60: -2977862927869168969
+      Horse_socks_brown_61: -5140099903815242638
+      Horse_socks_brown_62: 2985769099349675283
+      Horse_socks_brown_63: -1742593810644559448
+      Horse_socks_brown_64: 2129061054066629816
+      Horse_socks_brown_65: 786820216704167112
+      Horse_socks_brown_66: -3069140181672100041
+      Horse_socks_brown_67: -4072952500630023715
+      Horse_socks_brown_68: 7676028204459794827
+      Horse_socks_brown_69: -4912799642331691231
+      Horse_socks_brown_7: 5602816971818440955
+      Horse_socks_brown_70: 1763820636543430550
+      Horse_socks_brown_71: -5945867942905126659
+      Horse_socks_brown_72: 8260712063786805271
+      Horse_socks_brown_73: 1374015920069875218
+      Horse_socks_brown_74: 3287112162582414984
+      Horse_socks_brown_75: 966159251078593612
+      Horse_socks_brown_76: 8957262973171043294
+      Horse_socks_brown_77: 2951856531213578227
+      Horse_socks_brown_78: 6156735871542827749
+      Horse_socks_brown_79: 7816015929445739185
+      Horse_socks_brown_8: 7851932992927026180
+      Horse_socks_brown_80: -3969484552104285692
+      Horse_socks_brown_81: 615949231666596009
+      Horse_socks_brown_82: -7012560092582219226
+      Horse_socks_brown_83: 7904956790562437918
+      Horse_socks_brown_84: 8289632338962176637
+      Horse_socks_brown_85: -357784824987507153
+      Horse_socks_brown_86: 329659632818370787
+      Horse_socks_brown_87: 3864299150557208953
+      Horse_socks_brown_88: 2906050441453094517
+      Horse_socks_brown_89: 3736271940223310450
+      Horse_socks_brown_9: 5686553355753530347
+      Horse_socks_brown_90: 6131173960717131831
+      Horse_socks_brown_91: -5741662682661934064
+      Horse_socks_brown_92: 1099350961590418082
+      Horse_socks_brown_93: 7454070559903043715
+      Horse_socks_brown_94: 247485947503882305
+      Horse_socks_brown_95: 3431866646740186935
+      Horse_socks_brown_96: -3840812556759976947
+      Horse_socks_brown_97: 8551448765447048919
+      Horse_socks_brown_98: 5751017542559122738
+      Horse_socks_brown_99: 7447322770176684886
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
