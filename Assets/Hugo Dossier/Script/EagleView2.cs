@@ -17,6 +17,7 @@ public class EagleView2 : MonoBehaviour
     [SerializeField] private Material platformMaterial;
     [SerializeField] private Material invisiblePlatformMaterial;
     [SerializeField] private Material textMaterial;
+    [SerializeField] private AudioSource audioSource;
 
     private float _outlineBaseValue;
     private int _outlineFullBaseValue;
@@ -65,6 +66,7 @@ public class EagleView2 : MonoBehaviour
     {
         if (_inputEagleView && !_flag)
         {
+            audioSource.Play();
             _flag = true;
             outlineMaterial.SetFloat(Thickness, outlineMaterial.GetFloat(Thickness ) == _outlineBaseValue ? 0.0f : _outlineBaseValue);
             outlineMaterialFull.SetInt(Active, outlineMaterialFull.GetInt(Active) == 0 ? 1 : 0);

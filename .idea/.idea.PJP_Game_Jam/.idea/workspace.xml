@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a8c546ae-2839-4f60-8ad7-0e00a225f441" name="Changes" comment="" />
+    <list default="true" id="a8c546ae-2839-4f60-8ad7-0e00a225f441" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Player.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Player.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Run.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Run.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Walking.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Animations/Player/Walking.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Materials/TextMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Materials/TextMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Pefab/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/FlameScript.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/FlameScript.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/TPDeadZone.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/TPDeadZone.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,9 +80,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -81,9 +90,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -102,6 +108,7 @@
       <workItem from="1755419399574" duration="343000" />
       <workItem from="1755422524656" duration="9424000" />
       <workItem from="1755443868522" duration="1202000" />
+      <workItem from="1755449014359" duration="2817000" />
     </task>
     <servers />
   </component>
