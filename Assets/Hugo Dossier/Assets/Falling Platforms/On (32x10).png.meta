@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 2d6783f5cb246384297a952bbdf68fe2
+guid: 245c5f659b71e5e4da15e620a0013aee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5524587542107658741
-    second: Off_0
+      213: -7184453141422777021
+    second: On (32x10)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,23 +100,89 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Off_0
+      name: On (32x10)_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 32
-        height: 10
+        width: 36
+        height: 14
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b06ef16a6e8b453b0800000000000000
-      internalID: -5524587542107658741
+      spriteID: 34d5e08cee1bb4c90800000000000000
+      internalID: -7184453141422777021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (32x10)_1
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccecd59b6b228fb42a62c6da7ae1e962
+      internalID: 39932391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (32x10)_2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456de60cbb527004eb5b43372365dc02
+      internalID: -1393298213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: On (32x10)_3
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87acf6bf692dc04a89097c120a4a4cc
+      internalID: -1874868031
       vertices: []
       indices: 
       edges: []
@@ -125,7 +191,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 4806ae649518e5f4bae478552965b963
     internalID: 0
     vertices: []
     indices: 
@@ -135,7 +201,10 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Off_0: -5524587542107658741
+      On (32x10)_0: -7184453141422777021
+      On (32x10)_1: 39932391
+      On (32x10)_2: -1393298213
+      On (32x10)_3: -1874868031
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

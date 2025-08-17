@@ -8,7 +8,9 @@ public class SpikeHeadAnimation : MonoBehaviour
 {
     
     [SerializeField] private Animator animator;
+    [SerializeField] private float speed = 6f;
     private Vector3 originalPosition;
+    
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -23,11 +25,11 @@ public class SpikeHeadAnimation : MonoBehaviour
     {
         if (animator.GetBool("Is_rushing"))
         {
-            transform.localPosition += Vector3.down * (Time.deltaTime * 6f);
+            transform.localPosition += Vector3.down * (Time.deltaTime * speed);
         }
         else if(transform.localPosition.y < originalPosition.y)
         {
-            transform.localPosition += Vector3.up * (Time.deltaTime * 3f);
+            transform.localPosition += Vector3.up * (Time.deltaTime * speed / 2);
         }
         else
         {
