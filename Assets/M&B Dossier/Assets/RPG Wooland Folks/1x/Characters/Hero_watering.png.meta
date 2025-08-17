@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: a612e48838ffed04e9d6c6c3c2a3d8e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8175862165258103014
+    second: Hero_watering_0
+  - first:
+      213: 4801867375369427752
+    second: Hero_watering_1
+  - first:
+      213: 4111555720783767207
+    second: Hero_watering_2
+  - first:
+      213: -3573716654453042150
+    second: Hero_watering_3
+  - first:
+      213: 5916224625329602620
+    second: Hero_watering_4
+  - first:
+      213: -467416603216219964
+    second: Hero_watering_5
+  - first:
+      213: -7885001083299737598
+    second: Hero_watering_6
+  - first:
+      213: -7608715345235009454
+    second: Hero_watering_7
+  - first:
+      213: 5995792540145941277
+    second: Hero_watering_8
+  - first:
+      213: -8096760874513754607
+    second: Hero_watering_9
+  - first:
+      213: 8116977640014632070
+    second: Hero_watering_10
+  - first:
+      213: 1133022043338676423
+    second: Hero_watering_11
+  - first:
+      213: 2777411610888141986
+    second: Hero_watering_12
+  - first:
+      213: -7866737195554080133
+    second: Hero_watering_13
+  - first:
+      213: -3131283715029607046
+    second: Hero_watering_14
+  - first:
+      213: 3069836962733217090
+    second: Hero_watering_15
+  - first:
+      213: 502775558372391484
+    second: Hero_watering_16
+  - first:
+      213: 6829554208501311736
+    second: Hero_watering_17
+  - first:
+      213: 7770424816640987399
+    second: Hero_watering_18
+  - first:
+      213: 3805512012582294100
+    second: Hero_watering_19
+  - first:
+      213: 3874773538785365902
+    second: Hero_watering_20
+  - first:
+      213: -8887854329608796945
+    second: Hero_watering_21
+  - first:
+      213: 724815162285613431
+    second: Hero_watering_22
+  - first:
+      213: -7429846019432258219
+    second: Hero_watering_23
+  - first:
+      213: 3817335166277995210
+    second: Hero_watering_24
+  - first:
+      213: -4535621257703952788
+    second: Hero_watering_25
+  - first:
+      213: -6750132188553397261
+    second: Hero_watering_26
+  - first:
+      213: -5507416675274467165
+    second: Hero_watering_27
+  - first:
+      213: -2113072665688591685
+    second: Hero_watering_28
+  - first:
+      213: -894796460506290883
+    second: Hero_watering_29
+  - first:
+      213: -2010519252225120230
+    second: Hero_watering_30
+  - first:
+      213: 6590925039623158360
+    second: Hero_watering_31
+  - first:
+      213: 6855757660856885665
+    second: Hero_watering_32
+  - first:
+      213: 4136795855975004887
+    second: Hero_watering_33
+  - first:
+      213: 6112491680484825836
+    second: Hero_watering_34
+  - first:
+      213: 4531927250846436896
+    second: Hero_watering_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_watering_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 159
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a171c33ada0898e80800000000000000
+      internalID: -8175862165258103014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 150
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b9e6fbfe8a3a240800000000000000
+      internalID: 4801867375369427752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_2
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 150
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6aa83e42e2f0930800000000000000
+      internalID: 4111555720783767207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 149
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a14dd6b13ab976ec0800000000000000
+      internalID: -3573716654453042150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 149
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30803483f6aa1250800000000000000
+      internalID: 5916224625329602620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_5
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 149
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c07d2b63176389f0800000000000000
+      internalID: -467416603216219964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_6
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 150
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20059509a49d29290800000000000000
+      internalID: -7885001083299737598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_7
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 153
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250243ac4b9686690800000000000000
+      internalID: -7608715345235009454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 154
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf5565c85553350800000000000000
+      internalID: 5995792540145941277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_9
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 111
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 116935312e682af80800000000000000
+      internalID: -8096760874513754607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_10
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 111
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6845cd2782c45a070800000000000000
+      internalID: 8116977640014632070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_11
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 111
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c893ef9b8d49bf00800000000000000
+      internalID: 1133022043338676423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 111
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac780e05295b8620800000000000000
+      internalID: 2777411610888141986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_13
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 111
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7a75ad433cb3d290800000000000000
+      internalID: -7866737195554080133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_14
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 111
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7dd1ba2d027b84d0800000000000000
+      internalID: -3131283715029607046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_15
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 111
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245d312f3704a9a20800000000000000
+      internalID: 3069836962733217090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_16
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 111
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3af88ed4b73af600800000000000000
+      internalID: 502775558372391484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 111
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f8aefb3e5377ce50800000000000000
+      internalID: 6829554208501311736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_18
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 63
+        width: 17
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70114c5833816db60800000000000000
+      internalID: 7770424816640987399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_19
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 63
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45213725305efc430800000000000000
+      internalID: 3805512012582294100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_20
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 63
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f826c0106f5c530800000000000000
+      internalID: 3874773538785365902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_21
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe4004cb39ff7a480800000000000000
+      internalID: -8887854329608796945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_22
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 63
+        width: 33
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771e9d3cc8f0f0a00800000000000000
+      internalID: 724815162285613431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_23
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555e3eb0962e3e890800000000000000
+      internalID: -7429846019432258219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_24
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 63
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca4b9ecb16e9f430800000000000000
+      internalID: 3817335166277995210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_25
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 63
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e68d23f7c3e01c0800000000000000
+      internalID: -4535621257703952788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_26
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 63
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb385ac986b252a0800000000000000
+      internalID: -6750132188553397261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8d330a6b9b193b0800000000000000
+      internalID: -5507416675274467165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_28
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 15
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb23b092b9bdca2e0800000000000000
+      internalID: -2113072665688591685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_29
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 15
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35ee392c5b0593f0800000000000000
+      internalID: -894796460506290883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_30
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a18a90d64633914e0800000000000000
+      internalID: -2010519252225120230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_31
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a37ff376ba77b50800000000000000
+      internalID: 6590925039623158360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 15
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1a989e44b842f50800000000000000
+      internalID: 6855757660856885665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_33
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 15
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dab2bfc9e9d86930800000000000000
+      internalID: 4136795855975004887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_34
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 15
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cea14db4ccee3d450800000000000000
+      internalID: 6112491680484825836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_watering_35
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 15
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02e4d9ec2d3a4ee30800000000000000
+      internalID: 4531927250846436896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hero_watering_0: -8175862165258103014
+      Hero_watering_1: 4801867375369427752
+      Hero_watering_10: 8116977640014632070
+      Hero_watering_11: 1133022043338676423
+      Hero_watering_12: 2777411610888141986
+      Hero_watering_13: -7866737195554080133
+      Hero_watering_14: -3131283715029607046
+      Hero_watering_15: 3069836962733217090
+      Hero_watering_16: 502775558372391484
+      Hero_watering_17: 6829554208501311736
+      Hero_watering_18: 7770424816640987399
+      Hero_watering_19: 3805512012582294100
+      Hero_watering_2: 4111555720783767207
+      Hero_watering_20: 3874773538785365902
+      Hero_watering_21: -8887854329608796945
+      Hero_watering_22: 724815162285613431
+      Hero_watering_23: -7429846019432258219
+      Hero_watering_24: 3817335166277995210
+      Hero_watering_25: -4535621257703952788
+      Hero_watering_26: -6750132188553397261
+      Hero_watering_27: -5507416675274467165
+      Hero_watering_28: -2113072665688591685
+      Hero_watering_29: -894796460506290883
+      Hero_watering_3: -3573716654453042150
+      Hero_watering_30: -2010519252225120230
+      Hero_watering_31: 6590925039623158360
+      Hero_watering_32: 6855757660856885665
+      Hero_watering_33: 4136795855975004887
+      Hero_watering_34: 6112491680484825836
+      Hero_watering_35: 4531927250846436896
+      Hero_watering_4: 5916224625329602620
+      Hero_watering_5: -467416603216219964
+      Hero_watering_6: -7885001083299737598
+      Hero_watering_7: -7608715345235009454
+      Hero_watering_8: 5995792540145941277
+      Hero_watering_9: -8096760874513754607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 058f7be7476e48b43919cd906e8bc6b7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8647978736537963729
+    second: Deer02_walk_0
+  - first:
+      213: 1319770032626862867
+    second: Deer02_walk_1
+  - first:
+      213: -2562071918696880397
+    second: Deer02_walk_2
+  - first:
+      213: -2394768024613940955
+    second: Deer02_walk_3
+  - first:
+      213: 6130030670441314637
+    second: Deer02_walk_4
+  - first:
+      213: -3011760752262131966
+    second: Deer02_walk_5
+  - first:
+      213: -8101283765761465337
+    second: Deer02_walk_6
+  - first:
+      213: 2890232759255031213
+    second: Deer02_walk_7
+  - first:
+      213: 236209789658630652
+    second: Deer02_walk_8
+  - first:
+      213: -4629991969272326475
+    second: Deer02_walk_9
+  - first:
+      213: 4483271799503889820
+    second: Deer02_walk_10
+  - first:
+      213: 6699144963611701353
+    second: Deer02_walk_11
+  - first:
+      213: -156980329477657072
+    second: Deer02_walk_12
+  - first:
+      213: -2521329040738086693
+    second: Deer02_walk_13
+  - first:
+      213: 8167508358584287983
+    second: Deer02_walk_14
+  - first:
+      213: 9039688491509760751
+    second: Deer02_walk_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Deer02_walk_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23f58778253cf780800000000000000
+      internalID: -8647978736537963729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_1
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b0eeb2ad3c05210800000000000000
+      internalID: 1319770032626862867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_2
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 287
+        width: 44
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6a1151a21b17cd0800000000000000
+      internalID: -2562071918696880397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 287
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5211c6d6b2314ced0800000000000000
+      internalID: -2394768024613940955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_4
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 191
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4977ed9a6e321550800000000000000
+      internalID: 6130030670441314637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_5
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 191
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fc3f48d831436d0800000000000000
+      internalID: -3011760752262131966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_6
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 191
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70426256655729f80800000000000000
+      internalID: -8101283765761465337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_7
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 191
+        width: 46
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadd795a16b2c1820800000000000000
+      internalID: 2890232759255031213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 95
+        width: 46
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9821d5d8f274300800000000000000
+      internalID: 236209789658630652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_9
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 95
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b69c9ea5d6febfb0800000000000000
+      internalID: -4629991969272326475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_10
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 95
+        width: 47
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95a4f0c2f7c73e30800000000000000
+      internalID: 4483271799503889820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_11
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 95
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9603ceec9d428fc50800000000000000
+      internalID: 6699144963611701353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01ea2c8d83b42ddf0800000000000000
+      internalID: -156980329477657072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_13
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd01ee49890720dd0800000000000000
+      internalID: -2521329040738086693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_14
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 0
+        width: 44
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2437d2491d85170800000000000000
+      internalID: 8167508358584287983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Deer02_walk_15
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 0
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe240a8e9cc637d70800000000000000
+      internalID: 9039688491509760751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Deer02_walk_0: -8647978736537963729
+      Deer02_walk_1: 1319770032626862867
+      Deer02_walk_10: 4483271799503889820
+      Deer02_walk_11: 6699144963611701353
+      Deer02_walk_12: -156980329477657072
+      Deer02_walk_13: -2521329040738086693
+      Deer02_walk_14: 8167508358584287983
+      Deer02_walk_15: 9039688491509760751
+      Deer02_walk_2: -2562071918696880397
+      Deer02_walk_3: -2394768024613940955
+      Deer02_walk_4: 6130030670441314637
+      Deer02_walk_5: -3011760752262131966
+      Deer02_walk_6: -8101283765761465337
+      Deer02_walk_7: 2890232759255031213
+      Deer02_walk_8: 236209789658630652
+      Deer02_walk_9: -4629991969272326475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

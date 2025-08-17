@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a14b743bfcb126843a1bd26043d49fe1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4172530399547196634
+    second: Hero_shovelling_0
+  - first:
+      213: -6090816158900064091
+    second: Hero_shovelling_1
+  - first:
+      213: 5609772325128643986
+    second: Hero_shovelling_2
+  - first:
+      213: -8904412443745600569
+    second: Hero_shovelling_3
+  - first:
+      213: -6352315065853040745
+    second: Hero_shovelling_4
+  - first:
+      213: -344847964317928543
+    second: Hero_shovelling_5
+  - first:
+      213: 4776182751375879000
+    second: Hero_shovelling_6
+  - first:
+      213: -1723696195038431283
+    second: Hero_shovelling_7
+  - first:
+      213: 67582996404958226
+    second: Hero_shovelling_8
+  - first:
+      213: -3106272276386901334
+    second: Hero_shovelling_9
+  - first:
+      213: -8226653064143655634
+    second: Hero_shovelling_10
+  - first:
+      213: -5405920857298857178
+    second: Hero_shovelling_11
+  - first:
+      213: -6003875878175180941
+    second: Hero_shovelling_12
+  - first:
+      213: -2070427142286758331
+    second: Hero_shovelling_13
+  - first:
+      213: -8021024327368123242
+    second: Hero_shovelling_14
+  - first:
+      213: -3930619211968783396
+    second: Hero_shovelling_15
+  - first:
+      213: -2875059813205884101
+    second: Hero_shovelling_16
+  - first:
+      213: 4226198745154705033
+    second: Hero_shovelling_17
+  - first:
+      213: -2786496790809174466
+    second: Hero_shovelling_18
+  - first:
+      213: 1469307491106409809
+    second: Hero_shovelling_19
+  - first:
+      213: 7751253255029327761
+    second: Hero_shovelling_20
+  - first:
+      213: 5003915197592514059
+    second: Hero_shovelling_21
+  - first:
+      213: 560901537941685148
+    second: Hero_shovelling_22
+  - first:
+      213: 3830420034853000224
+    second: Hero_shovelling_23
+  - first:
+      213: -4166304741794253400
+    second: Hero_shovelling_24
+  - first:
+      213: 1126108319793139702
+    second: Hero_shovelling_25
+  - first:
+      213: 6870168953242817143
+    second: Hero_shovelling_26
+  - first:
+      213: -973024640809589215
+    second: Hero_shovelling_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_shovelling_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 479
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad487879a4ec7e930800000000000000
+      internalID: 4172530399547196634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 464
+        width: 47
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a07d8859f2197ba0800000000000000
+      internalID: -6090816158900064091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 458
+        width: 47
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2952c16353ae9dd40800000000000000
+      internalID: 5609772325128643986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_3
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 443
+        width: 44
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cbb9fc5f0c2d6480800000000000000
+      internalID: -8904412443745600569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_4
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 449
+        width: 74
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 797a7768a1b08d7a0800000000000000
+      internalID: -6352315065853040745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_5
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 479
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a330518a9ad63bf0800000000000000
+      internalID: -344847964317928543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_6
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 479
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b6b1638e8684240800000000000000
+      internalID: 4776182751375879000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_7
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7ba0271733418e0800000000000000
+      internalID: -1723696195038431283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_8
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 329
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 214f29d806a10f000800000000000000
+      internalID: 67582996404958226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_9
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 329
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2905682dd44e4d0800000000000000
+      internalID: -3106272276386901334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 332
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2da655ff9e05dd80800000000000000
+      internalID: -8226653064143655634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_11
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 335
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62393d04f9f4af4b0800000000000000
+      internalID: -5405920857298857178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_12
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 335
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377f4ddd2b2fdaca0800000000000000
+      internalID: -6003875878175180941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_13
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 335
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54eaba2db7d5443e0800000000000000
+      internalID: -2070427142286758331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_14
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 191
+        width: 47
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69cd4781fd89fa090800000000000000
+      internalID: -8021024327368123242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 185
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdb564be6a2a379c0800000000000000
+      internalID: -3930619211968783396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_16
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 185
+        width: 77
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b33ccd5255cb918d0800000000000000
+      internalID: -2875059813205884101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_17
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 188
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986d52b0e5976aa30800000000000000
+      internalID: 4226198745154705033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_18
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 191
+        width: 71
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e9d08aeef5459d0800000000000000
+      internalID: -2786496790809174466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_19
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 191
+        width: 53
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dc731e067046410800000000000000
+      internalID: 1469307491106409809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_20
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 191
+        width: 47
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1970d1e74cbf19b60800000000000000
+      internalID: 7751253255029327761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 47
+        width: 44
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e2eae3c5a717540800000000000000
+      internalID: 5003915197592514059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 47
+        width: 50
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c930cfa1af8b8c700800000000000000
+      internalID: 560901537941685148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_23
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 47
+        width: 50
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024d3fd2ab2682530800000000000000
+      internalID: 3830420034853000224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_24
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 47
+        width: 44
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5f35f49ef4e26c0800000000000000
+      internalID: -4166304741794253400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 47
+        width: 71
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ffc1ebec8db0af00800000000000000
+      internalID: 1126108319793139702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_26
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 47
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77294f4634eb75f50800000000000000
+      internalID: 6870168953242817143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_shovelling_27
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 47
+        width: 74
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126a7d69e3f1f72f0800000000000000
+      internalID: -973024640809589215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hero_shovelling_0: 4172530399547196634
+      Hero_shovelling_1: -6090816158900064091
+      Hero_shovelling_10: -8226653064143655634
+      Hero_shovelling_11: -5405920857298857178
+      Hero_shovelling_12: -6003875878175180941
+      Hero_shovelling_13: -2070427142286758331
+      Hero_shovelling_14: -8021024327368123242
+      Hero_shovelling_15: -3930619211968783396
+      Hero_shovelling_16: -2875059813205884101
+      Hero_shovelling_17: 4226198745154705033
+      Hero_shovelling_18: -2786496790809174466
+      Hero_shovelling_19: 1469307491106409809
+      Hero_shovelling_2: 5609772325128643986
+      Hero_shovelling_20: 7751253255029327761
+      Hero_shovelling_21: 5003915197592514059
+      Hero_shovelling_22: 560901537941685148
+      Hero_shovelling_23: 3830420034853000224
+      Hero_shovelling_24: -4166304741794253400
+      Hero_shovelling_25: 1126108319793139702
+      Hero_shovelling_26: 6870168953242817143
+      Hero_shovelling_27: -973024640809589215
+      Hero_shovelling_3: -8904412443745600569
+      Hero_shovelling_4: -6352315065853040745
+      Hero_shovelling_5: -344847964317928543
+      Hero_shovelling_6: 4776182751375879000
+      Hero_shovelling_7: -1723696195038431283
+      Hero_shovelling_8: 67582996404958226
+      Hero_shovelling_9: -3106272276386901334
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

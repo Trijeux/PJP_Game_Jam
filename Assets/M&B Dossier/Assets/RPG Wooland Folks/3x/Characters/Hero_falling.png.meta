@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 3ea99314c1f831f48831bb3fdac427c8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6203458267192491803
+    second: Hero_falling_0
+  - first:
+      213: 4222188294506192172
+    second: Hero_falling_1
+  - first:
+      213: 8997659966759588555
+    second: Hero_falling_2
+  - first:
+      213: -2510125357268090295
+    second: Hero_falling_3
+  - first:
+      213: -3135343446704585112
+    second: Hero_falling_4
+  - first:
+      213: 8876391307463530869
+    second: Hero_falling_5
+  - first:
+      213: -4934121323309794451
+    second: Hero_falling_6
+  - first:
+      213: 6973720091278892529
+    second: Hero_falling_7
+  - first:
+      213: 271040228768734603
+    second: Hero_falling_8
+  - first:
+      213: -3033110658659473435
+    second: Hero_falling_9
+  - first:
+      213: 4475508819670136440
+    second: Hero_falling_10
+  - first:
+      213: -4338067773556994750
+    second: Hero_falling_11
+  - first:
+      213: 2880799937762153396
+    second: Hero_falling_12
+  - first:
+      213: 5704708652367737455
+    second: Hero_falling_13
+  - first:
+      213: -4016618315369352289
+    second: Hero_falling_14
+  - first:
+      213: 7892895791453720451
+    second: Hero_falling_15
+  - first:
+      213: -669883899448618290
+    second: Hero_falling_16
+  - first:
+      213: -7520116765665534457
+    second: Hero_falling_17
+  - first:
+      213: 8219727962922064338
+    second: Hero_falling_18
+  - first:
+      213: 3344276899852876742
+    second: Hero_falling_19
+  - first:
+      213: -6659707985371522255
+    second: Hero_falling_20
+  - first:
+      213: -5113917681257575570
+    second: Hero_falling_21
+  - first:
+      213: -3695585410995909713
+    second: Hero_falling_22
+  - first:
+      213: 6191845113885619819
+    second: Hero_falling_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hero_falling_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 488
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ff7fa3d6c171650800000000000000
+      internalID: 6203458267192491803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_1
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 488
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d9adc32e9389a30800000000000000
+      internalID: 4222188294506192172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 488
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc25570711c1edc70800000000000000
+      internalID: 8997659966759588555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_3
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 479
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942c55a694e3a2dd0800000000000000
+      internalID: -2510125357268090295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 479
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 866035a3fb50d74d0800000000000000
+      internalID: -3135343446704585112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_5
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 479
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5799ab07dd64f2b70800000000000000
+      internalID: 8876391307463530869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_6
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 344
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b707d6cca768bb0800000000000000
+      internalID: -4934121323309794451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 344
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddea38971a7c060800000000000000
+      internalID: 6973720091278892529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_8
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 344
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dd99be6ade2c300800000000000000
+      internalID: 271040228768734603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 335
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7a6221de938e5d0800000000000000
+      internalID: -3033110658659473435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_10
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 335
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876f0992f833c1e30800000000000000
+      internalID: 4475508819670136440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_11
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 335
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24dc09118561cc3c0800000000000000
+      internalID: -4338067773556994750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_12
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 200
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3d74fb748aaf720800000000000000
+      internalID: 2880799937762153396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_13
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 200
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62f9736b423b2f40800000000000000
+      internalID: 5704708652367737455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_14
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 200
+        width: 47
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93f4125cea1248c0800000000000000
+      internalID: -4016618315369352289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_15
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 191
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f46ca67e2398d60800000000000000
+      internalID: 7892895791453720451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_16
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 191
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec29c94842814b6f0800000000000000
+      internalID: -669883899448618290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_17
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 191
+        width: 38
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70edb0915ad23a790800000000000000
+      internalID: -7520116765665534457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_18
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 56
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d990544807521270800000000000000
+      internalID: 8219727962922064338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_19
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 56
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb76462f12496e20800000000000000
+      internalID: 3344276899852876742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_20
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 56
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b19183fd6f393a0800000000000000
+      internalID: -6659707985371522255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_21
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 47
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b8d0ea6f6b709b0800000000000000
+      internalID: -5113917681257575570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_22
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 47
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab097416a4a6bcc0800000000000000
+      internalID: -3695585410995909713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hero_falling_23
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 47
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b66f365435adde550800000000000000
+      internalID: 6191845113885619819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hero_falling_0: 6203458267192491803
+      Hero_falling_1: 4222188294506192172
+      Hero_falling_10: 4475508819670136440
+      Hero_falling_11: -4338067773556994750
+      Hero_falling_12: 2880799937762153396
+      Hero_falling_13: 5704708652367737455
+      Hero_falling_14: -4016618315369352289
+      Hero_falling_15: 7892895791453720451
+      Hero_falling_16: -669883899448618290
+      Hero_falling_17: -7520116765665534457
+      Hero_falling_18: 8219727962922064338
+      Hero_falling_19: 3344276899852876742
+      Hero_falling_2: 8997659966759588555
+      Hero_falling_20: -6659707985371522255
+      Hero_falling_21: -5113917681257575570
+      Hero_falling_22: -3695585410995909713
+      Hero_falling_23: 6191845113885619819
+      Hero_falling_3: -2510125357268090295
+      Hero_falling_4: -3135343446704585112
+      Hero_falling_5: 8876391307463530869
+      Hero_falling_6: -4934121323309794451
+      Hero_falling_7: 6973720091278892529
+      Hero_falling_8: 271040228768734603
+      Hero_falling_9: -3033110658659473435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
