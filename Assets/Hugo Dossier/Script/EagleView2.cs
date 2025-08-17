@@ -72,8 +72,17 @@ public class EagleView2 : MonoBehaviour
             vanishingMaterial.SetInt(Active, vanishingMaterial.GetInt(Active) == 0 ? 1 : 0);
             dangerMaterial.SetFloat(Thickness, dangerMaterial.GetFloat(Thickness) == _dangerBaseValue ? 0.0f : _dangerBaseValue);
             arrowMaterial.SetInt(Active, arrowMaterial.GetInt(Active) == 0 ? 1 : 0);
-            platformMaterial.SetFloat(Thickness, platformMaterial.GetFloat(Thickness) == _platformBaseValue ? 0.0f : _platformBaseValue);
-            invisiblePlatformMaterial.SetInt(Active, invisiblePlatformMaterial.GetInt(Active) == 0 ? 1 : 0);
+            
+            if (platformMaterial != null)
+            {
+                platformMaterial.SetFloat(Thickness, platformMaterial.GetFloat(Thickness) == _platformBaseValue ? 0.0f : _platformBaseValue);
+            }
+
+            if (invisiblePlatformMaterial != null)
+            {
+                invisiblePlatformMaterial.SetInt(Active, invisiblePlatformMaterial.GetInt(Active) == 0 ? 1 : 0);
+            }
+            
             textMaterial.SetInt(Active, textMaterial.GetInt(Active) == 0 ? 1 : 0);
         }
         else if (!_inputEagleView)
@@ -90,8 +99,18 @@ public class EagleView2 : MonoBehaviour
         vanishingMaterial.SetInt(Active, _vanishingBaseValue);
         dangerMaterial.SetFloat(Thickness, _dangerBaseValue);
         arrowMaterial.SetInt(Active, _arrowBaseValue);
-        platformMaterial.SetFloat(Thickness, _platformBaseValue);
-        invisiblePlatformMaterial.SetInt(Active, _invisiblePlatformBaseValue);
+
+        if (platformMaterial != null)
+        {
+            platformMaterial.SetFloat(Thickness, _platformBaseValue);
+        }
+
+        if (invisiblePlatformMaterial != null)
+        {
+            invisiblePlatformMaterial.SetInt(Active, _invisiblePlatformBaseValue);
+
+        }
+        
         textMaterial.SetInt(Active, _textBaseValue);
     }
 }
