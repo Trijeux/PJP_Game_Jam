@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a8c546ae-2839-4f60-8ad7-0e00a225f441" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/M&amp;B Dossier/Prefabs/Test_Room.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/M&amp;B Dossier/Prefabs/Test_Room.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +85,7 @@
       <updated>1755418905916</updated>
       <workItem from="1755418910996" duration="275000" />
       <workItem from="1755419399574" duration="343000" />
-      <workItem from="1755422151478" duration="418000" />
+      <workItem from="1755422151478" duration="2185000" />
     </task>
     <servers />
   </component>
