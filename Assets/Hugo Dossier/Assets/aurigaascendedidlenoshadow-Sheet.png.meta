@@ -259,7 +259,13 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      aurigaascendedidlenoshadow-Sheet_0: -4277952382578783046
+      aurigaascendedidlenoshadow-Sheet_1: -8531379527991042188
+      aurigaascendedidlenoshadow-Sheet_2: 4371776871100017963
+      aurigaascendedidlenoshadow-Sheet_3: -2613119281354144149
+      aurigaascendedidlenoshadow-Sheet_4: -6896825912446847746
+      aurigaascendedidlenoshadow-Sheet_5: 5144813233804943130
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -387,7 +387,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   outlineMaterial: {fileID: 2100000, guid: 6573ee341cf6822439206bf750a1169a, type: 2}
+  outlineMaterialFull: {fileID: 2100000, guid: fcfd8946287a1f342b4ab000d44f0479, type: 2}
   outlineMaterialTransparent: {fileID: 2100000, guid: fcfd8946287a1f342b4ab000d44f0479, type: 2}
+  vanishingMaterial: {fileID: 2100000, guid: 22268b5c4fca5c24ca89f8b4fa2109c2, type: 2}
 --- !u!114 &3447350861538796616
 MonoBehaviour:
   m_ObjectHideFlags: 0

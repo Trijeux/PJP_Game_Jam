@@ -45,8 +45,8 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private bool SpectralPower = false;
     [SerializeField] private bool DoubleJumpPower = false;
     [SerializeField] private bool DashPower = false;
-    
-    
+
+
     private float _inputLeftRight;
     private bool _inputDash;
     private bool _inputJump;
@@ -62,12 +62,14 @@ public class PlayerController : MonoBehaviour
     private float _dashTimer = 0f;
     private bool _isRunDash = false;
     private bool _inputSpectralMode = false;
-    
+
+    public bool InputInteract { get; private set; }
+
     #endregion
 
     #region Methods
 
-    private void SpecrtMove()
+   private void SpecrtMove()
     {
         if (specte.transform.localPosition.x > spectLimitX)
         {
@@ -152,10 +154,45 @@ public class PlayerController : MonoBehaviour
         _isRunDash = false;
     }
 
+    public void ActiveJumpPower()
+    {
+        JumpPower = true;
+    }
+    
+    public void ActiveVisionPower()
+    {
+        VisionPower = true;
+    }
+
+    public void ActiveDoubleJumpPower()
+    {
+        DoubleJumpPower = true;
+    }
+
+    public void ActiveSpectralPower()
+    {
+        SpectralPower = true;
+    }
+
+    public void ActiveDashPower()
+    {
+        DashPower = true;
+    }
+
+    public void ActiveRunPower()
+    {
+        RunPower = true;
+    }
+
     #endregion
 
     #region InputSystem
 
+    private void OnInteraction(InputValue value)
+    {
+        InputInteract = value.isPressed;
+    }
+    
     private void OnRightLeft(InputValue value)
     {
         float inputLeftRight = value.Get<float>();
