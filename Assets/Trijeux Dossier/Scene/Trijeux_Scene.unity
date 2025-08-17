@@ -578,25 +578,6 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 5609708395856311449, guid: 514473d932d7266488d3aac78eb33934, type: 3}
   m_PrefabInstance: {fileID: 5762494787087478581}
   m_PrefabAsset: {fileID: 0}
---- !u!1 &463445238 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 4957296228898311679, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-  m_PrefabInstance: {fileID: 5762494787087478581}
-  m_PrefabAsset: {fileID: 0}
---- !u!114 &463445243
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 463445238}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3201ed47249335547b811dd5242ea71e, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  outlineMaterial: {fileID: 2100000, guid: 6573ee341cf6822439206bf750a1169a, type: 2}
-  outlineMaterialTransparent: {fileID: 2100000, guid: fcfd8946287a1f342b4ab000d44f0479, type: 2}
 --- !u!1 &640933297
 GameObject:
   m_ObjectHideFlags: 0
@@ -1118,48 +1099,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1543674353273693757, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: Lens.OrthographicSize
-      value: 5.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 1543674353273693757, guid: 514473d932d7266488d3aac78eb33934, type: 3}
       propertyPath: Target.TrackingTarget
       value: 
       objectReference: {fileID: 1982311433}
-    - target: {fileID: 2165765559345356678, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: DashPower
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 2172310789768712080, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: Lens.OrthographicSize
-      value: 5.5
-      objectReference: {fileID: 0}
     - target: {fileID: 2172310789768712080, guid: 514473d932d7266488d3aac78eb33934, type: 3}
       propertyPath: Target.TrackingTarget
       value: 
       objectReference: {fileID: 640933299}
-    - target: {fileID: 2297125603499730163, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.019999601
-      objectReference: {fileID: 0}
-    - target: {fileID: 2297125603499730163, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.3799999
-      objectReference: {fileID: 0}
     - target: {fileID: 4957296228898311679, guid: 514473d932d7266488d3aac78eb33934, type: 3}
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 5141473512228053207, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -0.02
-      objectReference: {fileID: 0}
-    - target: {fileID: 5141473512228053207, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 3.3799999
-      objectReference: {fileID: 0}
     - target: {fileID: 5609708395856311449, guid: 514473d932d7266488d3aac78eb33934, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.02
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5609708395856311449, guid: 514473d932d7266488d3aac78eb33934, type: 3}
       propertyPath: m_LocalPosition.y
@@ -1197,29 +1150,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 6055147229927435228, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: Composition.DeadZone.Size.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6055147229927435228, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: Composition.HardLimits.Size.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8345971310616372805, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: Composition.DeadZone.Size.x
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 8345971310616372805, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      propertyPath: Composition.HardLimits.Size.x
-      value: 1
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
-    m_AddedComponents:
-    - targetCorrespondingSourceObject: {fileID: 4957296228898311679, guid: 514473d932d7266488d3aac78eb33934, type: 3}
-      insertIndex: 2
-      addedObject: {fileID: 463445243}
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 514473d932d7266488d3aac78eb33934, type: 3}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
