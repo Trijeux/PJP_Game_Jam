@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 6190777725474212588}
   - component: {fileID: 1495652577755597450}
   m_Layer: 0
-  m_Name: InvisibleFallingPlatform
+  m_Name: FallingPlatform
   m_TagString: Ground
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -174,7 +174,7 @@ SpriteRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6435a60b6658f464e82b6c6725f6280c, type: 2}
+  - {fileID: 2100000, guid: 4348be074a93d384aa307bf40547f07b, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0

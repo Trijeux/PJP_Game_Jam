@@ -390,6 +390,11 @@ MonoBehaviour:
   outlineMaterialFull: {fileID: 2100000, guid: fcfd8946287a1f342b4ab000d44f0479, type: 2}
   outlineMaterialTransparent: {fileID: 2100000, guid: fcfd8946287a1f342b4ab000d44f0479, type: 2}
   vanishingMaterial: {fileID: 2100000, guid: 22268b5c4fca5c24ca89f8b4fa2109c2, type: 2}
+  dangerMaterial: {fileID: 2100000, guid: 644bdf94b0a9fcb46b2dd1303c65b913, type: 2}
+  arrowMaterial: {fileID: 2100000, guid: 275935a100280e44dba3a7b7b1cbcc43, type: 2}
+  platformMaterial: {fileID: 2100000, guid: 4348be074a93d384aa307bf40547f07b, type: 2}
+  invisiblePlatformMaterial: {fileID: 2100000, guid: 6435a60b6658f464e82b6c6725f6280c, type: 2}
+  textMaterial: {fileID: 2100000, guid: b188204625383824ab4c74f6d2c79a75, type: 2}
 --- !u!114 &3447350861538796616
 MonoBehaviour:
   m_ObjectHideFlags: 0

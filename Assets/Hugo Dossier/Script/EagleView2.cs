@@ -12,11 +12,22 @@ public class EagleView2 : MonoBehaviour
     [SerializeField] private Material outlineMaterialFull;
     [SerializeField] private Material outlineMaterialTransparent;
     [SerializeField] private Material vanishingMaterial;
+    [SerializeField] private Material dangerMaterial;
+    [SerializeField] private Material arrowMaterial;
+    [SerializeField] private Material platformMaterial;
+    [SerializeField] private Material invisiblePlatformMaterial;
+    [SerializeField] private Material textMaterial;
 
     private float _outlineBaseValue;
     private int _outlineFullBaseValue;
     private float _outlineTransparentBaseValue;
     private int _vanishingBaseValue;
+    private float _dangerBaseValue;
+    private int _arrowBaseValue;
+    private float _platformBaseValue;
+    private int _invisiblePlatformBaseValue;
+    private int _textBaseValue;
+    
     
     private bool _flag = false;
     private bool _inputEagleView = false;
@@ -32,22 +43,38 @@ public class EagleView2 : MonoBehaviour
         _outlineFullBaseValue = outlineMaterialFull.GetInt(Active);
         _outlineTransparentBaseValue = outlineMaterialTransparent.GetFloat(Thickness);
         _vanishingBaseValue = vanishingMaterial.GetInt(Active);
+        _dangerBaseValue = dangerMaterial.GetFloat(Thickness);
+        _arrowBaseValue = arrowMaterial.GetInt(Active);
+        _platformBaseValue = platformMaterial.GetFloat(Thickness);
+        _invisiblePlatformBaseValue = invisiblePlatformMaterial.GetInt(Active);
+        _textBaseValue = textMaterial.GetInt(Active);
+            
         
         outlineMaterial.SetFloat(Thickness, 0);
         outlineMaterialFull.SetInt(Active, 0);
         outlineMaterialTransparent.SetFloat(Thickness, 0);
         vanishingMaterial.SetInt(Active, 0);
+        dangerMaterial.SetFloat(Thickness, 0);
+        arrowMaterial.SetInt(Active, 0);
+        platformMaterial.SetFloat(Thickness, 0);
+        invisiblePlatformMaterial.SetInt(Active, 0);
+        textMaterial.SetInt(Active, 0);
     }
 
     private void Update()
     {
         if (_inputEagleView && !_flag)
         {
+            _flag = true;
             outlineMaterial.SetFloat(Thickness, outlineMaterial.GetFloat(Thickness ) == _outlineBaseValue ? 0.0f : _outlineBaseValue);
             outlineMaterialFull.SetInt(Active, outlineMaterialFull.GetInt(Active) == 0 ? 1 : 0);
             outlineMaterialTransparent.SetFloat(Thickness, outlineMaterialTransparent.GetInt(Thickness) == _outlineTransparentBaseValue ? 0.0f : _outlineTransparentBaseValue);
             vanishingMaterial.SetInt(Active, vanishingMaterial.GetInt(Active) == 0 ? 1 : 0);
-            _flag = true;
+            dangerMaterial.SetFloat(Thickness, dangerMaterial.GetFloat(Thickness) == _dangerBaseValue ? 0.0f : _dangerBaseValue);
+            arrowMaterial.SetInt(Active, arrowMaterial.GetInt(Active) == 0 ? 1 : 0);
+            platformMaterial.SetFloat(Thickness, platformMaterial.GetFloat(Thickness) == _platformBaseValue ? 0.0f : _platformBaseValue);
+            invisiblePlatformMaterial.SetInt(Active, invisiblePlatformMaterial.GetInt(Active) == 0 ? 1 : 0);
+            textMaterial.SetInt(Active, textMaterial.GetInt(Active) == 0 ? 1 : 0);
         }
         else if (!_inputEagleView)
         {
@@ -61,5 +88,10 @@ public class EagleView2 : MonoBehaviour
         outlineMaterialFull.SetInt(Active, _outlineFullBaseValue);
         outlineMaterialTransparent.SetFloat(Thickness, _outlineTransparentBaseValue);
         vanishingMaterial.SetInt(Active, _vanishingBaseValue);
+        dangerMaterial.SetFloat(Thickness, _dangerBaseValue);
+        arrowMaterial.SetInt(Active, _arrowBaseValue);
+        platformMaterial.SetFloat(Thickness, _platformBaseValue);
+        invisiblePlatformMaterial.SetInt(Active, _invisiblePlatformBaseValue);
+        textMaterial.SetInt(Active, _textBaseValue);
     }
 }

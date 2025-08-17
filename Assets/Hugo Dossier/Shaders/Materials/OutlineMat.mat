@@ -55,6 +55,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _OutlineThickness: 0.74
+    - _Speed: 0.3
     - _SpriteVisible: 1
     m_Colors:
     - _OutlineColor: {r: 0, g: 0.078001715, b: 1, a: 1}
