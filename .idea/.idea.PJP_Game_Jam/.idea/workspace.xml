@@ -5,7 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c546ae-2839-4f60-8ad7-0e00a225f441" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/projectSettingsUpdater.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
+<<<<<<< HEAD
+=======
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparent.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparent.shadergraph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparent.shadergraph.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparent.shadergraph.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparentMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparentMat.mat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparentMat.mat.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparentMat.mat.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/URPProjectSettings.asset" afterDir="false" />
+>>>>>>> 13187493f941c0317d139f4210daaec8e2c64d57
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +70,9 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -69,6 +83,9 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
+      <option name="runtimes">
+        <list />
+      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -85,7 +102,12 @@
       <updated>1755418905916</updated>
       <workItem from="1755418910996" duration="275000" />
       <workItem from="1755419399574" duration="343000" />
+<<<<<<< HEAD
       <workItem from="1755422151478" duration="2185000" />
+=======
+      <workItem from="1755422151478" duration="418000" />
+      <workItem from="1755424883487" duration="367000" />
+>>>>>>> 13187493f941c0317d139f4210daaec8e2c64d57
     </task>
     <servers />
   </component>
