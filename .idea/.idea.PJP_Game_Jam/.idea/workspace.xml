@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a8c546ae-2839-4f60-8ad7-0e00a225f441" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Script/EagleView2.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Outline.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/Outline.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparent.shadergraph" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparent.shadergraph" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparentMat.mat" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Hugo Dossier/Shaders/OutlineTransparentMat.mat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Trijeux Dossier/Scene/Trijeux_Scene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Trijeux Dossier/Script/PlayerController.cs~" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ShaderGraphSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PJP_Game_Jam/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/M&amp;B Dossier/Prefabs/Test_Room.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/M&amp;B Dossier/Prefabs/Test_Room.prefab" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,19 +25,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
     <configuration name="Start Unity" type="RunUnityExe" factoryName="Unity Executable">
       <option name="EXE_PATH" value="C:\Program Files\Unity\Hub\Editor\6000.0.40f1\Editor\Unity.exe" />
@@ -66,9 +60,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -79,9 +70,6 @@
       <option name="listenPortForConnections" value="false" />
       <option name="pid" />
       <option name="projectPathOnTarget" />
-      <option name="runtimes">
-        <list />
-      </option>
       <option name="selectedOptions">
         <list />
       </option>
@@ -98,6 +86,7 @@
       <updated>1755418905916</updated>
       <workItem from="1755418910996" duration="275000" />
       <workItem from="1755419399574" duration="343000" />
+      <workItem from="1755422151478" duration="418000" />
     </task>
     <servers />
   </component>
